@@ -3,7 +3,7 @@
 ### Education
 - Ph.D. in Electrical Engineering. (Anna Centenary Research Fellowship Recipient)
   - Nonlinear System Identification, Nonlinear Systems Analysis and Nonlinear Control of Physical systems 
-  - Predicted nonlinear dynamics of process engineering units using machine learning and deep learning algorithms.
+  - Predicted nonlinear dynamics of process engineering units using **machine learning and deep learning algorithms**.
   - Developed data driven identification/predictive modelling using Machine learning/Deep learning models to predict unknown dynamics of process engineering systems using          Python platform
 
 ### Research & Scientific Experience
@@ -16,17 +16,17 @@
     
 ### Honors & Awards
 - Anna Centenary Research Fellowship (ACRF) recipient (2019-2021) at Anna University, India
-- Received ‘Certificate of Recognition’ from Anna University for publishing articles in Q1 Journals.
-- Elsevier Reviewer Recognition for reviewing more than 20 manuscripts (2020-Present)
+- Received **‘Certificate of Recognition’ from Anna University** for publishing articles in Q1 Journals.[view](https://drive.google.com/drive/folders/15tLKA-d47a0zUiUnq7q1rPzKS4fy6MyN?dmr=1&ec=wgc-drive-hero-goto)
+- Elsevier Reviewer Recognition for reviewing more than 20 manuscripts (2020-Present) [view](https://drive.google.com/drive/folders/15tLKA-d47a0zUiUnq7q1rPzKS4fy6MyN?dmr=1&ec=wgc-drive-hero-goto)
   - Reviewed for ISA Transactions
   - Reviewed for Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering
-- Awarded the ‘Best Paper Presenter’ in the international conference ACODS 2022 conducted by NIT Silchar, India.
+- Awarded the ‘**Best Paper Presenter**’ in the international conference ACODS 2022 conducted by NIT Silchar, India.[view](https://drive.google.com/drive/folders/15tLKA-d47a0zUiUnq7q1rPzKS4fy6MyN?dmr=1&ec=wgc-drive-hero-goto)
 - Designed the Front Cover Art for the Journal, ‘Industrial & Engineering Chemistry Research’, published by American Chemical Society (ACS). The Cover art was based on my      article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023).[click here for Cover Art](https://pubs.acs.org/toc/iecred/62/33)
   
 ### Skills & Competencies
-- Hands on experience in IDE: VS code and Pycharm; Git and GitHub
-- Python Modules: NumPy, Pandas, Sci-Kit Learn, Keras and TensorFlow; Excel
-- Programming with Matlab & Simulink
+- Hands on experience in IDE: **VS code and Pycharm; Git and GitHub**
+- **Python Modules**: NumPy, Pandas, Sci-Kit Learn, Keras and TensorFlow; Excel
+- Programming with **Matlab & Simulink**
 - Hard Skills: 	Time series Analysis, Predictive Modelling, Data cleaning and pre-processing, Data visualization, Machine learning and deep learning algorithms, CNN and TCN, 
   Control system design
 - Soft Skills :	Critical Thinking, Communication and presentation skills, Research & Information gathering, Organizational skills and time management, Analytical thinking 
