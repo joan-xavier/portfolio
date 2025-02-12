@@ -32,3 +32,14 @@
 - Soft Skills :	Critical Thinking, Communication and presentation skills, Research & Information gathering, Organizational skills and time management, Analytical thinking 
   and problem solving capability
 
+### List of Publications
+•	Xavier, Joanofarc, MA Henry Barath, Sanjib Kumar Patnaik, Rames C. Panda, and Atanu Panda. "Hybrid model using bond graph-TCN network and event triggered predictive control of pH neutralization process." ISA transactions (2024). (SCI IF: 6.3; Scimago Q1) DOI: https://doi.org/10.1016/j.isatra.2024.11.025 
+•	Xavier, Joanofarc, S. K. Patnaik, and Rames C. Panda. "Nonlinear system identification in coherence with nonlinearity measure for dynamic physical systems—case studies." Nonlinear Dynamics (2024): 1-27. (SCI IF: 5.6; Scimago Q1) DOI: https://doi.org/10.1007/s11071-023-09258-0 
+•	Durairaj, Sam, Joanofarc Xavier, Sanjib Kumar Patnaik, and Rames C. Panda. "Deep Learning Based System Identification and Nonlinear Model Predictive Control of pH Neutralization Process." Industrial & Engineering Chemistry Research , vol. 62, no. 33(2023):13061-13080. (SCI IF: 4.2; Scimago Q1) DOI: https://doi.org/10.1021/acs.iecr.3c01212
+•	Xavier, Joanofarc, S. K. Patnaik, and Rames C. Panda. "Economic optimization and predictive control for nonlinear systems using Lyapunov based nonlinear cost function design." Chemical Engineering Science 270 (2023): 118530. (SCI IF: 4.7; Scimago Q1) DOI:  https://doi.org/10.1016/j.ces.2023.118530 
+•	Xavier, Joanofarc, S. K. Patnaik, and Rames C. Panda. "Nonlinear measure for nonlinear dynamic processes using convergence area: typical case studies." Journal of Computational and Nonlinear Dynamics 16, no. 5 (2021): 051002. (SCI IF: 2; Scimago Q2). DOI: https://doi.org/10.1115/1.4050553
+•	Xavier, Joanofarc, S. K. Patnaik, and Rames C. Panda. "Process modeling, identification methods, and control schemes for nonlinear physical systems–A comprehensive review." ChemBioEng Reviews 8, no. 4 (2021): 392-412. (SCI IF: 4.8; Scimago Q1). DOI: https://doi.org/10.1002/cben.202000017
+Xavier, Joanofarc; S. K. Patnaik; and R. C. Panda. "Sparse Identification and SDRE based MRAC Scheme for a Van de Vusse Reactor." IFAC-PapersOnLine 55, no. 1 (2022): 890-895.    https://doi.org/10.1016/j.ifacol.2022.04.146 
+Xavier, Joanofarc; Noonela Divya; Meena B. Krithiga; S. K. Patnaik; and R. C. Panda. "Blood Glucose Regulation in Type-1 Diabetic Patients using Sliding Mode Control Based on Nonlinear Transformation." IFAC-PapersOnLine 55, no. 1 (2022): 902-907. DOI: https://doi.org/10.1016/j.ifacol.2022.04.148
+Joanofarc, X; Nivedhika, D; Patnaik, S.K; and Panda, R.C. 2019, August. Closed-loop Performance and Analysis of a Real Time Non-linear Bioreactor Process. In 2019 2nd International Conference on Power and Embedded Drive Control (ICPEDC) (pp. 406-412). IEEE. DOI: (https://10.1109/ICPEDC47771.2019.9036666)
+
