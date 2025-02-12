@@ -31,6 +31,18 @@
   Control system design
 - Soft Skills :	Critical Thinking, Communication and presentation skills, Research & Information gathering, Organizational skills and time management, Analytical thinking 
   and problem solving capability
+  
+###  AI Benchmarking & Technical Expertise:
+
+**Contributor – Humanity’s Last Exam (HLE) Benchmark**  
+*Centre for AI Safety & Scale AI* | 2025  
+- Designed **30+ highly challenging** questions in Electrical Engineering, Mechanical Engineering, Physics, and Machine Learning.  
+- **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.[Click here](https://agi.safe.ai/contributors)
+- The HLE Dataset is also available for download on [Hugging Face](https://huggingface.co/datasets/cais/hle)
+- Co-author of the **HLE research paper**, contributing to the world's most rigorous AI benchmarking initiative.[Click here](https://arxiv.org/abs/2501.14249)
+  
+**AI Trainer at Outlier**
+  -Actively working as an independent contractor /subject expert to train AI in electrical engineering at Outlier.ai.
 
 ### List of Publications
 -	**Xavier, Joanofarc**, MA Henry Barath, Sanjib Kumar Patnaik, Rames C. Panda, and Atanu Panda. "Hybrid model using bond graph-TCN network and event triggered predictive 
