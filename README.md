@@ -2,21 +2,18 @@
 
 ### Education
 - Ph.D. in Electrical Engineering. (Anna Centenary Research Fellowship Recipient)
-  - Nonlinear System Identification, Nonlinear Systems Analysis and Nonlinear Control of Physical systems 
+  - Nonlinear System Identification, Nonlinear Systems Analysis and Nonlinear Control design of Physical systems 
   - Predicted nonlinear dynamics of process engineering units using **machine learning and deep learning algorithms**.
-  - Developed data driven identification/predictive modelling using Machine learning/Deep learning models to predict unknown dynamics of process engineering systems using Python platform
+  - Developed data driven identification/predictive modelling using Machine learning/Deep learning models to predict unknown dynamics of process engineering systems using 
+    Python platform
 
 ### Research & Scientific Experience
 - Scientific writing and editing
-   - Published three research articles on Machine learning based system identification in peer referred journals with high impact factor (Google Scholar h-index factor:5)
-- Analysis & Problem Solving
-   - Developed a detailed analysis on problems arising in on Nonlinear systems and solved many mathematical concepts, that involves mathematical modelling and numerical computation of big data sets. Time-series Analysis, data cleaning and pre-processing).
-   - Developed data driven identification/predictive modelling using Machine learning/Deep learning models to predict unknown dynamics of process engineering systems using Python platform.
-- Collaboration on projects:
-  -  Worked on research projects collaborating with faculty of central research labs and premier academic institutions in India which resulted in good publications. (SRM, AU)
+   - Published many techincal monographs with three research articles on Machine learning based system identification in peer referred journals with high impact factor (Google Scholar h-index factor:5)
+- Collaboration on projects
+  -  Experience gained in Time series Analysis, Predictive Modelling, Data cleaning and pre-processing, Data visualization, Machine learning and deep learning algorithms, CNN and TCN
 
 ### ML based Projects
-Experience gained in Time series Analysis, Predictive Modelling, Data cleaning and pre-processing, Data visualization, Machine learning and deep learning algorithms, CNN and TCN, Control system design
 
 - Project 1: ‘Image Classification and Pre-Trained Keras Models’ [view](https://cloudxlab.com/certificate/G5N7AD/)
 - Project 2: ‘Training from Scratch vs Transfer Learning’ [view](https://cloudxlab.com/certificate/TRS319/)
