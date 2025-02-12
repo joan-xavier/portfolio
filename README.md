@@ -45,8 +45,8 @@
    Computational and Nonlinear Dynamics 16, no. 5 (2021): 051002. (SCI IF: 2; Scimago Q2). [Click here](https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/16/5/051002/1104435/Nonlinear-Measure-for-Nonlinear-Dynamic-Processes?redirectedFrom=fulltext)
 -  Xavier, Joanofarc, S. K. Patnaik, and Rames C. Panda. "Process modeling, identification methods, and control schemes for nonlinear physical systems–A comprehensive 
    review." ChemBioEng Reviews 8, no. 4 (2021): 392-412. (SCI IF: 4.8; Scimago Q1). [Click here](https://onlinelibrary.wiley.com/doi/10.1002/cben.202000017)
--  Xavier, Joanofarc; S. K. Patnaik; and R. C. Panda. "Sparse Identification and SDRE based MRAC Scheme for a Van de Vusse Reactor." IFAC-PapersOnLine 55, no. 1 (2022): 890- 
-   895. [Click here](https://www.sciencedirect.com/science/article/pii/S240589632200146X?via%3Dihub)
+-  Xavier, Joanofarc; S. K. Patnaik; and R. C. Panda. "Sparse Identification and SDRE based MRAC Scheme for a Van de Vusse Reactor." IFAC-PapersOnLine 55, no. 1 (2022): 890 
+   to 895. [Click here](https://www.sciencedirect.com/science/article/pii/S240589632200146X?via%3Dihub)
 -  Xavier, Joanofarc; Noonela Divya; Meena B. Krithiga; S. K. Patnaik; and R. C. Panda. "Blood Glucose Regulation in Type-1 Diabetic Patients using Sliding Mode Control 
    Based on Nonlinear Transformation." IFAC-PapersOnLine 55, no. 1 (2022): 902-907. [Click here](https://www.sciencedirect.com/science/article/pii/S2405896322001483?via%3Dihub)
 -  Joanofarc, X; Nivedhika, D; Patnaik, S.K; and Panda, R.C. 2019, August. Closed-loop Performance and Analysis of a Real Time Non-linear Bioreactor Process. In 2019 2nd 
