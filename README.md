@@ -3,8 +3,9 @@
 ### Education
 - Ph.D. in Electrical Engineering. (Anna Centenary Research Fellowship Recipient)
   - Developed Nonlinear System Identification, Nonlinear Systems Analysis and Nonlinear Control design of Physical systems 
-  - Conducted studies on data driven identification/predictive modelling using **machine learning and deep learning algorithms** to predict unknown dynamics of process 
-    engineering units. Simulated the models using Python and Matlab coding.
+  - Focused on data driven identification/predictive modelling using **machine learning and deep learning algorithms** to predict unknown dynamics of process 
+    engineering units.
+  - Conducted realtime studies on large datasets. Simulated the ML and DL models under Python and Matlab environments.
 
 ### Research & Scientific Experience
 - Scientific writing and editing
