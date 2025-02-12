@@ -13,6 +13,16 @@
 - Collaboration on projects
   -  Experience gained in Time series Analysis, Predictive Modelling, Data cleaning and pre-processing, Data visualization, Machine learning and deep learning algorithms, CNN and TCN
 
+### 💻 Skills & Tools
+- **Languages:** Python, MATLAB, SQL
+- **IDEs:** VS Code, PyCharm, MATLAB & Simulink
+- **Version Control:** Git & GitHub
+
+### 📊 Data Science & Machine Learning
+- **Python Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Keras, TensorFlow
+- **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn, Plotly
+- **Machine Learning & Deep Learning:** Model Training, Optimization, Neural Networks (Supervised and Unsupervised)
+
 ### ML based Projects
 
 - Project 1: ‘Image Classification and Pre-Trained Keras Models’ [view](https://cloudxlab.com/certificate/G5N7AD/)
