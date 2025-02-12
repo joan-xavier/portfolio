@@ -2,10 +2,9 @@
 
 ### Education
 - Ph.D. in Electrical Engineering. (Anna Centenary Research Fellowship Recipient)
-  - Nonlinear System Identification, Nonlinear Systems Analysis and Nonlinear Control design of Physical systems 
-  - Predicted nonlinear dynamics of process engineering units using **machine learning and deep learning algorithms**.
-  - Developed data driven identification/predictive modelling using Machine learning/Deep learning models to predict unknown dynamics of process engineering systems using 
-    Python platform
+  - Developed Nonlinear System Identification, Nonlinear Systems Analysis and Nonlinear Control design of Physical systems 
+  - Conducted studies on data driven identification/predictive modelling using **machine learning and deep learning algorithms** to predict unknown dynamics of process 
+    engineering units. Simulated the models using Python and Matlab coding.
 
 ### Research & Scientific Experience
 - Scientific writing and editing
@@ -24,7 +23,7 @@
 ### Honors & Awards
 - Anna Centenary Research Fellowship (ACRF) recipient (2019-2021) during the PhD study at Anna University, India
 - Received **‘Certificate of Recognition’ from Anna University** in 2024 for publishing articles in Q1 Journals [view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
-- **Elsevier Reviewer Recognition** for reviewing more than 20 manuscripts (2020-Present) [view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
+- **Elsevier Reviewer Recognition** for reviewing more than 20 manuscripts (2020-Present) [view](https://elsevier-reviewer-recognition-joan.tiiny.site)
   - Reviewed for ISA Transactions
   - Reviewed for Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering
 - Awarded the ‘**Best Paper Presenter**’ in the international conference conducted by 'International Fedaration of Automatic Control' (IFAC) at NIT Silchar (2022), India.[view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
