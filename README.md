@@ -28,7 +28,7 @@
   - Reviewed for ISA Transactions
   - Reviewed for Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering
 - Awarded the ‘**Best Paper Presenter**’ in the international conference conducted by 'International Fedaration of Automatic Control' (IFAC) at NIT Silchar (2022), India [view](https://publuu.com/flip-book/796176/1758624)
-- **Designed the Front Cover Art** for the Journal, ‘Industrial & Engineering Chemistry Research’, published by American Chemical Society (ACS). The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [click here for Cover Art](https://pubs.acs.org/toc/iecred/62/33)
+- **Designed the Front Cover Art** for the Journal, ‘Industrial & Engineering Chemistry Research’, published by American Chemical Society (ACS). The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [Click here for Cover Art](https://pubs.acs.org/toc/iecred/62/33)
   
 ### Skills & Competencies
 - Hands on experience in IDE: **VS code and Pycharm; Git and GitHub**
