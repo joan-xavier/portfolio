@@ -22,12 +22,12 @@
 
     
 ### Honors & Awards
-- Anna Centenary Research Fellowship (ACRF) recipient (2019-2021) at Anna University, India
-- Received **‘Certificate of Recognition’ from Anna University** for publishing articles in Q1 Journals [view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
+- Anna Centenary Research Fellowship (ACRF) recipient (2019-2021) during the PhD study at Anna University, India
+- Received **‘Certificate of Recognition’ from Anna University** in 2024 for publishing articles in Q1 Journals [view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
 - **Elsevier Reviewer Recognition** for reviewing more than 20 manuscripts (2020-Present) [view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
   - Reviewed for ISA Transactions
   - Reviewed for Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering
-- Awarded the ‘**Best Paper Presenter**’ in the international conference ACODS 2022 conducted by NIT Silchar, India.[view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
+- Awarded the ‘**Best Paper Presenter**’ in the international conference conducted by 'International Fedaration of Automatic Control' (IFAC) at NIT Silchar (2022), India.[view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
 - **Designed the Front Cover Art** for the Journal, ‘Industrial & Engineering Chemistry Research’, published by American Chemical Society (ACS). The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023).[click here for Cover Art](https://pubs.acs.org/toc/iecred/62/33)
   
 ### Skills & Competencies
@@ -37,9 +37,8 @@
   
 ###  AI Benchmarking & Technical Expertise:
 
-**Contributor – Humanity’s Last Exam (HLE) Benchmark**  
-*Centre for AI Safety & Scale AI* | 2025  
-- Designed **30+ highly challenging** questions in Electrical Engineering, Mechanical Engineering, Physics, and Machine Learning.  
+**Contributor – Humanity’s Last Exam (HLE) Benchmark**  a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1).HLE is organized by *Centre for AI Safety & Scale AI* | 2025  
+- Designed **30+ highly challenging** questions in Electrical Engineering, Mechanical Engineering, Physics, and Machine Learning to HLE.  
 - **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.[Click here](https://agi.safe.ai/contributors)
 - The HLE Dataset is also available for download on [Hugging Face](https://huggingface.co/datasets/cais/hle)
 - Co-author of the **HLE research paper**, contributing to the world's most rigorous AI benchmarking initiative.[Click here](https://arxiv.org/abs/2501.14249)
