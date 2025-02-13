@@ -48,31 +48,22 @@
 - Project 3: ‘Autoencoders for MNIST Fashion’ [view](https://cloudxlab.com/certificate/JNJ7SA/)
 - Project 4: ‘How to build a Neural Network for Image Classification with Tensorflow’ [view](https://cloudxlab.com/certificate/G5N7AD/)
 
-## Honors & Awards
+### Honors & Awards
 
 - Anna Centenary Research Fellowship (2019-2021) during the PhD study at Anna University, India
 - **Elsevier Reviewer Recognition** (Reviewed 20+ manuscripts) [View Recognition](https://elsevier-reviewer-recognition-joan.tiiny.site)
-- Certificate of Recognition from Anna University (2024) for Q1 Journal Publications [View](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1)
--** Best Paper Presenter** at IFAC 2022 Conference ('International Fedaration of Automatic Control'), NIT Silchar, India
+- **Certificate of Recognition** from Anna University (2024) for Q1 Journal Publications [View](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1)
+-** Best Paper Presenter** at IFAC 2022 Conference ('International Fedaration of Automatic Control'), NIT Silchar, India [view](https://publuu.com/flip-book/796176/1758624)
 - Designed **Front Cover Art** for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [View Cover](https://pubs.acs.org/toc/iecred/62/33)
     
-### Honors & Awards
-- Anna Centenary Research Fellowship (ACRF) recipient (2019-2021) during the PhD study at Anna University, India
-- Received **‘Certificate of Recognition’ from Anna University** in 2024 for publishing articles in Q1 Journals [view](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1&ec=wgc-drive-hero-goto&resourcekey=0-2vWBq8QayINXQAv5Crg-aQ)
-- **Elsevier Reviewer Recognition** for reviewing more than 20 manuscripts (2020-Present) [view](https://elsevier-reviewer-recognition-joan.tiiny.site)
-  - Reviewed for ISA Transactions
-  - Reviewed for Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering
-- Awarded the ‘**Best Paper Presenter**’ in the international conference conducted by 'International Fedaration of Automatic Control' (IFAC) at NIT Silchar (2022), India [view](https://publuu.com/flip-book/796176/1758624)
-- **Designed the Front Cover Art** for the Journal, ‘Industrial & Engineering Chemistry Research’, published by American Chemical Society (ACS). The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [Click here for Cover Art](https://pubs.acs.org/toc/iecred/62/33)
-  
   
 ###  AI Benchmarking & Technical Expertise:
 
 **Contributor – Humanity’s Last Exam (HLE) Benchmark**  a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1).HLE is organized by *Centre for AI Safety & Scale AI* | 2025  
 - Designed **30+ highly challenging** questions in Electrical Engineering, Mechanical Engineering, Physics, and Machine Learning to HLE.  
-- **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.[Click here](https://agi.safe.ai/contributors)
+- **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.[HLE Contributers list](https://agi.safe.ai/contributors)
 - The HLE Dataset is also available for download on [Hugging Face](https://huggingface.co/datasets/cais/hle)
-- Co-author of the **HLE research paper**, contributing to the world's most rigorous AI benchmarking initiative.[Click here](https://arxiv.org/abs/2501.14249)
+- Co-author of the **HLE research paper**, contributing to the world's most rigorous AI benchmarking initiative.[HLE Paper](https://arxiv.org/abs/2501.14249)
   
 **AI Trainer at Outlier**
   -Actively working as an independent contractor /subject expert to train AI in electrical engineering at Outlier.ai.
