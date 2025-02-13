@@ -3,15 +3,9 @@
 
 ## Expertise
 
-- Nonlinear System Identification & Control| Time Series Analysis
-- Data-Driven Modeling| Machine Learning| Deep Learning
-- Python| MATLAB| SQL|Git & GitHub
-
-## About Me 
-
 - Ph.D. in Electrical Engineering (Anna Centenary Research Fellowship Recipient)
-- Extensive research in Nonlinear System Identification, Predictive Modeling, and Deep Learning
-- Developed ML & DL-based models for analyzing and predicting complex system dynamics
+- Extensive research in Nonlinear System Identification & Control, Predictive (Data-Driven) Modeling, and Deep Learning
+- Developed ML & DL-based models for analyzing and predicting complex system dynamics, Time series Analysis
 - Hands-on experience working with large-scale datasets, feature engineering, and model deployment
 - Proficient in Python, MATLAB, SQL, Scikit-Learn, TensorFlow, and PyTorch
 - Strong expertise in time series forecasting, anomaly detection, and deep learning architectures (TCN, CNN, RNN)
