@@ -1,7 +1,7 @@
 title: "Joan Of Arc Xavier"
 logo: pic1.jpeg  # Ensure it's in the correct location
-description: "PhD in Electrical Engineering | Machine Learning | Deep Learning | Time Series Analysis | AI Research"
+description: "Machine Learning | Deep Learning | Time Series Analysis | Data Analysis | AI Research"
 show_downloads: False
-theme: jekyll-theme-leap-day # cayman, minimal, leap-day
+theme: jekyll-theme-minimal # cayman
 github:
   is_project_page: false
