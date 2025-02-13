@@ -1,15 +1,13 @@
 
-# Joan Of Arc Xavier
-
 ## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science & AI Researcher
 
 ## Expertise
 
-- Nonlinear System Identification & Control | Time Series Analysis
-- Data-Driven Modeling | Machine Learning | Deep Learning
-- Python | MATLAB | SQL | Git & GitHub
+- Nonlinear System Identification & Control| Time Series Analysis
+- Data-Driven Modeling| Machine Learning| Deep Learning
+- Python| MATLAB| SQL|Git & GitHub
 
-## About Me
+## About Me 
 
 - Ph.D. in Electrical Engineering (Anna Centenary Research Fellowship Recipient)
 - Extensive research in Nonlinear System Identification, Predictive Modeling, and Deep Learning
