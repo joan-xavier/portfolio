@@ -2,6 +2,6 @@ title: "Joan Of Arc Xavier"
 logo: assets/pic1.jpeg  # Ensure it's in the correct location
 description: "PhD in Electrical Engineering | Machine Learning | Deep Learning | Time Series Analysis | AI Research"
 show_downloads: False
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 github:
   is_project_page: false
