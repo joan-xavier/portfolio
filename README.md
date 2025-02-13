@@ -45,8 +45,8 @@
 - Anna Centenary Research Fellowship (2019-2021) during the PhD study at Anna University, India
 - **Elsevier Reviewer Recognition** (Reviewed 20+ manuscripts) [View Recognition](https://elsevier-reviewer-recognition-joan.tiiny.site)
 - **Certificate of Recognition** from Anna University (2024) for Q1 Journal Publications [View](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1)
--** Best Paper Presenter** at IFAC 2022 Conference ('International Fedaration of Automatic Control'), NIT Silchar, India [view](https://publuu.com/flip-book/796176/1758624)
-- Designed **Front Cover Art** for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [View Cover](https://pubs.acs.org/toc/iecred/62/33)
+- Best Paper Presenter at IFAC 2022 Conference ('International Fedaration of Automatic Control'), NIT Silchar, India [view](https://publuu.com/flip-book/796176/1758624)
+- Designed **Front Cover Art** for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [View Cover Art](https://pubs.acs.org/toc/iecred/62/33)
     
   
 ###  AI Benchmarking & Technical Expertise:
