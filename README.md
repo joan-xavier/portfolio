@@ -8,7 +8,7 @@
 - Developed ML & DL-based models for analyzing and predicting complex system dynamics, Time series Analysis
 - Hands-on experience working with large-scale datasets, feature engineering, and model deployment
 - Proficient in Python, MATLAB, SQL, Scikit-Learn, TensorFlow, and PyTorch
-- Strong expertise in time series forecasting, anomaly detection, and deep learning architectures (TCN, CNN, RNN)
+- Strong expertise in time series forecasting, anomaly detection, and deep learning architectures (TCN, CNN, RNN, LSTM)
 
 ## Skills & Tools
 
