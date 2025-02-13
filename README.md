@@ -1,9 +1,4 @@
----
-layout: default
-title: Joan Of Arc Xavier
----
-
-# Welcome to My Portfolio 👋
+# PhD Researcher
 
 ### Education
 - Ph.D. in Electrical Engineering. (Anna Centenary Research Fellowship Recipient)
