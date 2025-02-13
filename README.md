@@ -1,27 +1,43 @@
-## Joan Of Arc Xavier
 
-### Education
-- Ph.D. in Electrical Engineering. (Anna Centenary Research Fellowship Recipient)
-  - Developed Nonlinear System Identification, Nonlinear Systems Analysis and Nonlinear Control design of Physical systems 
-  - Focused on data driven identification/predictive modelling using **machine learning and deep learning algorithms** to predict unknown dynamics of process 
-    engineering units.
-  - Conducted realtime studies on large datasets. Simulated the ML and DL models under Python and Matlab environments.
+# Joan Of Arc Xavier
 
-### Research & Scientific Experience
-- Scientific writing and editing
-   - Published many techincal monographs with three research articles on Machine learning based system identification in peer referred journals with high impact factor (Google Scholar h-index factor:5)
-- Collaboration on projects
-  -  Experience gained in Time series Analysis, Predictive Modelling, Data cleaning and pre-processing, Data visualization, Machine learning and deep learning algorithms, CNN and TCN
+## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science & AI Researcher
 
-### 💻 Skills & Tools
+## Expertise
+
+- Nonlinear System Identification & Control | Time Series Analysis
+- Data-Driven Modeling | Machine Learning | Deep Learning
+- Python | MATLAB | SQL | Git & GitHub
+
+## About Me
+
+- Ph.D. in Electrical Engineering (Anna Centenary Research Fellowship Recipient)
+- Extensive research in Nonlinear System Identification, Predictive Modeling, and Deep Learning
+- Developed ML & DL-based models for analyzing and predicting complex system dynamics
+- Hands-on experience working with large-scale datasets, feature engineering, and model deployment
+- Proficient in Python, MATLAB, SQL, Scikit-Learn, TensorFlow, and PyTorch
+- Strong expertise in time series forecasting, anomaly detection, and deep learning architectures (TCN, CNN, RNN)
+
+## Skills & Tools
+
 - **Languages:** Python, MATLAB, SQL
-- **IDEs:** VS Code, PyCharm, MATLAB & Simulink
+- **ML & Deep Learning Frameworks:** TensorFlow, Keras, PyTorch, Scikit-Learn
+- **Data Analytics & Visualization:** Pandas, Matplotlib, Seaborn, Plotly
+- **Development Tools:** VS Code, PyCharm, MATLAB & Simulink
 - **Version Control:** Git & GitHub
 
-### 📊 Data Science & Machine Learning
-- **Python Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Keras, TensorFlow
-- **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn, Plotly
-- **Machine Learning & Deep Learning:** Model Training, Optimization, Neural Networks (Supervised and Unsupervised)
+  
+### Scientific Writing & Publications
+
+- Published multiple peer-reviewed Q1 journal articles on ML-based system identification (Google Scholar h-index: 5)
+- Reviewer for Elsevier & IMechE Journals (Reviewed 20+ manuscripts)
+- Awarded Best Paper Presenter at IFAC 2022 Conference
+
+### Collaborative Research & Projects
+
+- Experience in Time Series Analysis, Predictive Modeling, and Anomaly Detection
+- Data Preprocessing, Feature Engineering, and ML/DL Model Optimization
+- Worked on CNN, TCN, and Transformer-based models for time series forecasting
 
 ### Featured ML Projects
 - 🔥 [Machine Learning for Time Series](https://github.com/your-repo/ml-time-series)
