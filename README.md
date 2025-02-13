@@ -1,4 +1,9 @@
-# PhD Researcher
+---
+layout: default
+title: Joan Of Arc Xavier
+---
+
+# Welcome to My Portfolio 👋
 
 ### Education
 - Ph.D. in Electrical Engineering. (Anna Centenary Research Fellowship Recipient)
@@ -23,7 +28,9 @@
 - **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn, Plotly
 - **Machine Learning & Deep Learning:** Model Training, Optimization, Neural Networks (Supervised and Unsupervised)
 
-### ML based Projects
+### Featured ML Projects
+- 🔥 [Machine Learning for Time Series](https://github.com/your-repo/ml-time-series)
+- 🎯 [Deep Learning for Control Systems](https://github.com/your-repo/dl-control)
 
 - Project 1: ‘Image Classification and Pre-Trained Keras Models’ [view](https://cloudxlab.com/certificate/G5N7AD/)
 - Project 2: ‘Training from Scratch vs Transfer Learning’ [view](https://cloudxlab.com/certificate/TRS319/)
