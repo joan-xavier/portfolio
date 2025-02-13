@@ -48,6 +48,13 @@
 - Project 3: ‘Autoencoders for MNIST Fashion’ [view](https://cloudxlab.com/certificate/JNJ7SA/)
 - Project 4: ‘How to build a Neural Network for Image Classification with Tensorflow’ [view](https://cloudxlab.com/certificate/G5N7AD/)
 
+## Honors & Awards
+
+- Anna Centenary Research Fellowship (2019-2021) during the PhD study at Anna University, India
+- **Elsevier Reviewer Recognition** (Reviewed 20+ manuscripts) [View Recognition](https://elsevier-reviewer-recognition-joan.tiiny.site)
+- Certificate of Recognition from Anna University (2024) for Q1 Journal Publications [View](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1)
+-** Best Paper Presenter** at IFAC 2022 Conference ('International Fedaration of Automatic Control'), NIT Silchar, India
+- Designed **Front Cover Art** for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [View Cover](https://pubs.acs.org/toc/iecred/62/33)
     
 ### Honors & Awards
 - Anna Centenary Research Fellowship (ACRF) recipient (2019-2021) during the PhD study at Anna University, India
@@ -58,10 +65,6 @@
 - Awarded the ‘**Best Paper Presenter**’ in the international conference conducted by 'International Fedaration of Automatic Control' (IFAC) at NIT Silchar (2022), India [view](https://publuu.com/flip-book/796176/1758624)
 - **Designed the Front Cover Art** for the Journal, ‘Industrial & Engineering Chemistry Research’, published by American Chemical Society (ACS). The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [Click here for Cover Art](https://pubs.acs.org/toc/iecred/62/33)
   
-### Skills & Competencies
-- Hands on experience in IDE: **VS code and Pycharm; Git and GitHub**
-- **Python Modules**: NumPy, Pandas, Sci-Kit Learn, Keras and TensorFlow; Excel
-- Programming with **Matlab & Simulink**
   
 ###  AI Benchmarking & Technical Expertise:
 
