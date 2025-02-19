@@ -31,9 +31,12 @@
 - Data Preprocessing, Feature Engineering, and ML/DL Model Optimization
 - Worked on CNN, TCN, and Transformer-based models for time series forecasting
 
+### Projects on Github
+-  [Machine Learning for Time Series](https://github.com/your-repo/ml-time-series)
+-  [Deep Learning for Control Systems](https://github.com/your-repo/dl-control)
+-  [Data Analysis Projects](githublink)
+
 ### Featured ML Projects
-- 🔥 [Machine Learning for Time Series](https://github.com/your-repo/ml-time-series)
-- 🎯 [Deep Learning for Control Systems](https://github.com/your-repo/dl-control)
 
 - Project 1: ‘Image Classification and Pre-Trained Keras Models’ [view](https://cloudxlab.com/certificate/G5N7AD/)
 - Project 2: ‘Training from Scratch vs Transfer Learning’ [view](https://cloudxlab.com/certificate/TRS319/)
@@ -58,7 +61,7 @@
 - Co-author of the **HLE research paper**, contributing to the world's most rigorous AI benchmarking initiative.[HLE Paper](https://arxiv.org/abs/2501.14249)
   
 **AI Trainer at Outlier**
-  -Actively working as an independent contractor /subject expert to train AI in electrical engineering at Outlier.ai.
+  -Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai.
 
 ### List of Publications
 -	**Xavier, Joanofarc**, MA Henry Barath, Sanjib Kumar Patnaik, Rames C. Panda, and Atanu Panda. "Hybrid model using bond graph-TCN network and event triggered predictive 
@@ -67,7 +70,7 @@
 -	Durairaj, Sam, **Joanofarc Xavier**, Sanjib Kumar Patnaik, and Rames C. Panda. "Deep Learning Based System Identification and Nonlinear Model Predictive Control of pH 
   Neutralization Process." **Industrial & Engineering Chemistry Researc**h , vol. 62, no. 33(2023):13061-13080. (SCI IF: 4.2; Scimago Q1) [Click here](https://pubs.acs.org/doi/10.1021/acs.iecr.3c01212)       
 -  **Xavier, Joanofarc**, S. K. Patnaik, and Rames C. Panda. "Economic optimization and predictive control for nonlinear systems using Lyapunov based nonlinear cost function 
-   design." Chemical Engineering Science 270 (2023): 118530. (SCI IF: 4.7; Scimago Q1) [Click here](https://www.sciencedirect.com/science/article/abs/pii/S0009250923000866?via%3Dihub)
+   design." **Chemical Engineering Science** 270 (2023): 118530. (SCI IF: 4.7; Scimago Q1) [Click here](https://www.sciencedirect.com/science/article/abs/pii/S0009250923000866?via%3Dihub)
 -  **Xavier, Joanofarc**, S. K. Patnaik, and Rames C. Panda. "Nonlinear measure for nonlinear dynamic processes using convergence area: typical case studies." **Journal of 
    Computational and Nonlinear Dynamics** 16, no. 5 (2021): 051002. (SCI IF: 2; Scimago Q2) [Click here](https://asmedigitalcollection.asme.org/computationalnonlinear/article-abstract/16/5/051002/1104435/Nonlinear-Measure-for-Nonlinear-Dynamic-Processes?redirectedFrom=fulltext)
 -  **Xavier, Joanofarc**, S. K. Patnaik, and Rames C. Panda. "Process modeling, identification methods, and control schemes for nonlinear physical systems–A comprehensive 
