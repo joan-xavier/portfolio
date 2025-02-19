@@ -34,7 +34,8 @@
 ### Projects on Github
 -  [Machine Learning for Time Series](https://github.com/your-repo/ml-time-series)
 -  [Deep Learning for Control Systems](https://github.com/your-repo/dl-control)
--  [Data Analysis Projects](githublink)
+-  [Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
+-  [Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
 
 ### Featured ML Projects
 
