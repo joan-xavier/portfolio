@@ -33,7 +33,7 @@
 
 ### Projects on Github
 -  [Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
--  [ML Projects](link to be included)
+-  [ML Projects](https://github.com/joan-xavier/ML_projects_2024)
 -  [Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
 
 ### Featured ML Projects
