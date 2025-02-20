@@ -39,12 +39,16 @@
 ### Featured ML Projects
 
 - **California House Price Prediction** [End-to-End ML Project](https://github.com/joan-xavier/ML_projects_2024/tree/main/P1_California_HousePrice_Regression_Analysis)
-    Developed a full ML pipeline to predict California house prices, covering data preprocessing, feature engineering, model selection, evaluation, and deployment.
-    Tech Stack: Python, Scikit-learn, Pandas, NumPy, Streamlit, Joblib  
+    - Developed a full ML pipeline to predict California house prices, covering data preprocessing, feature engineering, 
+      model selection, evaluation, and deployment.
+      Tech Stack: Python, Scikit-learn, Pandas, NumPy, Streamlit, Joblib  
     **Key Highlights:**  
-    - **Data Processing & EDA:** Cleaned data, removed outliers, engineered new features, and visualized trends using Matplotlib & Seaborn.  
-    - **Modeling:** Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving **98% R²** with Gradient Boosting.  
-    - **Deployment:** Built a **Streamlit app** for real-time predictions, allowing user inputs for dynamic price estimation.  
+    - **Data Processing & EDA:** Cleaned data, removed outliers, engineered new features, and visualized trends using 
+       Matplotlib & Seaborn.  
+    - **Modeling:** Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving **98% R²** with 
+      Gradient Boosting.  
+    - **Deployment:** Built a **Streamlit app** for real-time predictions, allowing user inputs for dynamic price 
+      estimation.  
     
 
 ### Project Certifications:
