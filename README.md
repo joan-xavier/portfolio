@@ -32,10 +32,23 @@
 - Worked on CNN, TCN, and Transformer-based models for time series forecasting
 
 ### Projects on Github
--  [Machine Learning for Time Series](https://github.com/your-repo/ml-time-series)
--  [Deep Learning for Control Systems](https://github.com/your-repo/dl-control)
 -  [Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
+-  [ML Projects](link to be included)
 -  [Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
+
+### Featured ML Projects
+
+- **California House Price Prediction (End-to-End ML Project)**  
+    Developed a full ML pipeline to predict California house prices, covering data preprocessing, feature engineering, model selection, evaluation, and deployment.  
+
+    **Key Highlights:**  
+    - **Data Processing & EDA:** Cleaned data, removed outliers, engineered new features, and visualized trends using Matplotlib & Seaborn.  
+    - **Modeling:** Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving **98% R²** with Gradient Boosting.  
+    - **Deployment:** Built a **Streamlit app** for real-time predictions, allowing user inputs for dynamic price estimation.  
+    
+    **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Streamlit, Joblib  
+    **GitHub:** [Add Link] (if available)
+
 
 ### Featured ML Projects
 
