@@ -1,12 +1,12 @@
 
-## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science & AI Researcher
+## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science & AI Research
 
 ## Expertise
 
 - Ph.D. in Electrical Engineering (Anna Centenary Research Fellowship Recipient)
 - Extensive research in Nonlinear System Identification & Control, Predictive (Data-Driven) Modeling, and Deep Learning
 - Developed ML & DL-based models for analyzing and predicting complex system dynamics, Time series Analysis
-- Hands-on experience working with large-scale datasets, feature engineering, and model deployment
+- Hands-on experience working with large-scale datasets,regression analysis, classification problems, feature engineering, and model deployment
 - Proficient in Python, MATLAB, SQL, Scikit-Learn, TensorFlow, and PyTorch
 - Strong expertise in time series forecasting, anomaly detection, and deep learning architectures (TCN, CNN, RNN, LSTM)
 
@@ -25,11 +25,9 @@
 - Reviewer for Elsevier & IMechE Journals (Reviewed 20+ manuscripts)
 - Awarded Best Paper Presenter at IFAC 2022 Conference
 
-### Collaborative Research & Projects
+### Collaborative Research Projects
 
-- Experience in Time Series Analysis, Predictive Modeling, and Anomaly Detection
-- Data Preprocessing, Feature Engineering, and ML/DL Model Optimization
-- Worked on CNN, TCN, and Transformer-based models for time series forecasting
+- Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212) and [Hybrid modelling](https://www.sciencedirect.com/science/article/pii/S0019057824005366) for System Identification of Data Driven Nonlinear Real-time systems.
 
 ### Projects on Github
 -  [Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
@@ -53,14 +51,14 @@
 
 ### Project Certifications:
 
-- Project 1: ‘Image Classification and Pre-Trained Keras Models’ [view](https://cloudxlab.com/certificate/G5N7AD/)
-- Project 2: ‘Training from Scratch vs Transfer Learning’ [view](https://cloudxlab.com/certificate/TRS319/)
-- Project 3: ‘Autoencoders for MNIST Fashion’ [view](https://cloudxlab.com/certificate/JNJ7SA/)
-- Project 4: ‘How to build a Neural Network for Image Classification with Tensorflow’ [view](https://cloudxlab.com/certificate/G5N7AD/)
+- Project 1: [Image Classification and Pre-Trained Keras Models](https://cloudxlab.com/certificate/G5N7AD/)
+- Project 2: [Training from Scratch vs Transfer Learning](https://cloudxlab.com/certificate/TRS319/)
+- Project 3: [Autoencoders for MNIST Fashion](https://cloudxlab.com/certificate/JNJ7SA/)
+- Project 4: [How to build a Neural Network for Image Classification with Tensorflow](https://cloudxlab.com/certificate/G5N7AD/)
 
 ### Honors & Awards
 
-- Anna Centenary Research Fellowship (2019-2021) during the PhD study at Anna University, India
+- Anna Centenary Research Fellowship (2019-2021) during the PhD study at [Anna University, India](https://www.annauniv.edu/)
 - **Elsevier Reviewer Recognition** (Reviewed 20+ manuscripts) [View Recognition](https://elsevier-reviewer-recognition-joan.tiiny.site)
 - **Certificate of Recognition** from Anna University (2024) for Q1 Journal Publications [View](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1)
 - Best Paper Presenter at IFAC 2022 Conference ('International Fedaration of Automatic Control'), NIT Silchar, India [view](https://publuu.com/flip-book/796176/1758624)
