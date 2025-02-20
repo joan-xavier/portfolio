@@ -1,7 +1,23 @@
 title: "Joan Of Arc Xavier"
-logo: pic1.jpeg  # Ensure it's in the correct location
-description: "Machine Learning | Deep Learning | Time Series Analysis | Data Analysis "
-show_downloads: False
-theme: jekyll-theme-minimal # cayman
+logo: "pic1.jpeg"  # Ensure it's in the correct location
+description: "Machine Learning | Deep Learning | Data Analysis Researcher"
+author: "Joan Of Arc Xavier"
+show_downloads: false
+theme: jekyll-theme-minimal  # You can also try: jekyll-theme-cayman, jekyll-theme-leap-day, etc.
+
+# GitHub metadata
 github:
   is_project_page: false
+
+# Social media links (optional)
+social_links:
+  linkedin: "https://www.linkedin.com/in/joan-of-arc-xavier-59a660277/"
+  github: "https://github.com/joan-xavier"
+  # twitter: "https://twitter.com/yourhandle"
+  # email: "your-email@example.com"
+
+# Analytics (Optional)
+# google_analytics: "UA-XXXXXXXXX-X"  # Replace with your tracking ID if needed
+
+# SEO Optimization
+keywords: "Machine Learning, Deep Learning, Data Science, Research"
