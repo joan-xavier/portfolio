@@ -3,7 +3,6 @@
 
 ## Expertise
 
-- Ph.D. in Electrical Engineering [Anna Centenary Research Fellowship Recipient](https://cfr.annauniv.edu/research/announcements/Acrf-2019.pdf)
 - Extensive research in Nonlinear System Identification & Control, Predictive (Data-Driven) Modeling, and Deep Learning
 - Developed ML & DL-based models for analyzing and predicting complex system dynamics, Time series Analysis
 - Hands-on experience working with large-scale datasets,regression analysis, classification problems, feature engineering, and model deployment
@@ -37,16 +36,12 @@
 ### Featured ML Projects
 
 - **California House Price Prediction** [End-to-End ML Project](https://github.com/joan-xavier/ML_projects_2024/tree/main/P1_California_HousePrice_Regression_Analysis)
-    - Developed a full ML pipeline to predict California house prices, covering data preprocessing, feature engineering, 
-      model selection, evaluation, and deployment.
+    - Developed a full ML pipeline to predict California house prices, covering data preprocessing, feature engineering, model selection, evaluation, and deployment.
       Tech Stack: Python, Scikit-learn, Pandas, NumPy, Streamlit, Joblib  
     **Key Highlights:**  
-    - **Data Processing & EDA:** Cleaned data, removed outliers, engineered new features, and visualized trends using 
-       Matplotlib & Seaborn.  
-    - **Modeling:** Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving **98% R²** with 
-      Gradient Boosting.  
-    - **Deployment:** Built a Streamlit app for real-time predictions, allowing user inputs for dynamic price 
-      estimation.  
+    - **Data Processing & EDA:** Cleaned data, removed outliers, engineered new features, and visualized trends using Matplotlib & Seaborn.  
+    - **Modeling:** Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving **98% R²** with Gradient Boosting.  
+    - **Deployment:** Built a Streamlit app for real-time predictions, allowing user inputs for dynamic price estimation.  
     
 
 ### Project Certifications:
