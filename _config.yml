@@ -1,5 +1,5 @@
 title: "Joan Of Arc Xavier"
-logo: "pic1.jpeg"  # Ensure it's in the correct location
+logo: "/joan-xavier/pic1.jpeg"  # Ensure it's in the correct location
 description: "Machine Learning | Deep Learning | Data Analysis Researcher"
 author: "Joan Of Arc Xavier"
 show_downloads: false
