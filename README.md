@@ -67,16 +67,17 @@
   
 ###  AI Benchmarking & Technical Expertise:
 
-[Contributor – Humanity’s Last Exam](https://agi.safe.ai/contributors) (HLE) Benchmark  a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1).HLE is organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI]https://scale.com/research/humanitys-last-exam  2025  
+[Contributor – Humanity’s Last Exam](https://agi.safe.ai/contributors) (HLE) Benchmark  a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1).HLE is organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025  
 - Designed **30+ highly challenging** questions in Electrical Engineering, Mechanical Engineering, Physics, and Machine Learning to HLE.  
 - **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.
 - The HLE Dataset is also available for download on [Hugging Face](https://huggingface.co/datasets/cais/hle)
-- Co-author of the **HLE research paper**, contributing to the world's most rigorous AI benchmarking initiative.[HLE Paper](https://arxiv.org/abs/2501.14249)
+- Co-author of the [HLE research paper](https://arxiv.org/abs/2501.14249), contributing to the world's most rigorous AI benchmarking initiative.
   
 **AI Trainer at Outlier**
   -Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai.
 
 ### List of Publications
+
 -	**Xavier, Joanofarc**, MA Henry Barath, Sanjib Kumar Patnaik, Rames C. Panda, and Atanu Panda. "Hybrid model using bond graph-TCN network and event triggered predictive 
   control of pH neutralization process." **ISA Transactions** (2024). (SCI IF: 6.3; Scimago Q1) [Click here](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub)
 -	**Xavier, Joanofarc**, S. K. Patnaik, and Rames C. Panda. "Nonlinear system identification in coherence with nonlinearity measure for dynamic physical systems—case studies." **Nonlinear Dynamics** (2024): 1-27. (SCI IF: 5.6; Scimago Q1) [Click here](https://link.springer.com/article/10.1007/s11071-023-09258-0)
