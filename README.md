@@ -1,13 +1,14 @@
 
-## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science & AI Research
+## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science  Research
 
-## Expertise
+## Technical Expertise
 
 - Extensive research in Nonlinear System Identification & Control, Predictive (Data-Driven) Modeling, and Deep Learning
 - Developed ML & DL-based models for analyzing and predicting complex system dynamics, Time series Analysis
 - Hands-on experience working with large-scale datasets,regression analysis, classification problems, feature engineering, and model deployment
 - Proficient in Python, MATLAB, SQL, Scikit-Learn, TensorFlow, and PyTorch
-- Strong expertise in time series forecasting, anomaly detection, and deep learning architectures (TCN, CNN, RNN, LSTM)
+- Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
+- Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai
 
 ## Skills & Tools
 
@@ -18,17 +19,14 @@
 - **Version Control:** Git & GitHub
 
   
-### Scientific Writing & Publications
+### Collaborative Projects and Scientific Writing
 
-- Published multiple peer-reviewed Q1 journal articles on ML-based system identification (Google Scholar h-index: 5)
+- Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression (ML)](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212) and [Hybrid modelling](https://www.sciencedirect.com/science/article/pii/S0019057824005366) for System Identification of Data Driven Nonlinear Real-time systems.
+- Published multiple peer-reviewed Q1 journal articles on ML-based system identification [(Google Scholar h-index: 5)](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
 - Reviewer for Elsevier & IMechE Journals (Reviewed 20+ manuscripts)
-- Awarded Best Paper Presenter at IFAC 2022 Conference
+- Co-author of the Humanity’s Last Exam a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1)[HLE research paper](https://arxiv.org/abs/2501.14249), organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025  .
 
-### Collaborative Research Projects
-
-- Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212) and [Hybrid modelling](https://www.sciencedirect.com/science/article/pii/S0019057824005366) for System Identification of Data Driven Nonlinear Real-time systems.
-
-### Projects on Github
+### Notable Github Projects:
 -  [Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
 -  [ML Projects](https://github.com/joan-xavier/ML_projects_2024)
 -  [Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
@@ -43,7 +41,6 @@
     - **Modeling:** Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving **98% R²** with Gradient Boosting.  
     - **Deployment:** Built a Streamlit app for real-time predictions, allowing user inputs for dynamic price estimation.  
     
-
 ### Project Certifications:
 
 - Project 1: [Image Classification and Pre-Trained Keras Models](https://cloudxlab.com/certificate/G5N7AD/)
@@ -59,12 +56,8 @@
 - [Best Paper Presenter](https://publuu.com/flip-book/796176/1758624) at [IFAC 2022 Conference](http://acods2022.nits.ac.in/) ('International Fedaration of Automatic Control'), NIT Silchar, India 
 - Designed [Front Cover Art](https://pubs.acs.org/toc/iecred/62/33) for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023)
     
-  
-###  AI Benchmarking & Technical Expertise:
- -Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai.
-- Co-author of the Humanity’s Last Exam a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1)[HLE research paper](https://arxiv.org/abs/2501.14249), organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025  .
-  
-### List of Publications
+   
+### Research Publications
 
 -	**Xavier, Joanofarc**, MA Henry Barath, Sanjib Kumar Patnaik, Rames C. Panda, and Atanu Panda. "Hybrid model using bond graph-TCN network and event triggered predictive 
   control of pH neutralization process." **ISA Transactions** (2024). (SCI IF: 6.3; Scimago Q1) [Click here](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub)
