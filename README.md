@@ -61,16 +61,9 @@
     
   
 ###  AI Benchmarking & Technical Expertise:
-
-[Contributor – Humanity’s Last Exam](https://agi.safe.ai/contributors) (HLE) Benchmark  a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1).HLE is organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025  
-- Designed **30+ highly challenging** questions in Electrical Engineering, Mechanical Engineering, Physics, and Machine Learning to HLE.  
-- **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.
-- The HLE Dataset is also available for download on [Hugging Face](https://huggingface.co/datasets/cais/hle)
-- Co-author of the [HLE research paper](https://arxiv.org/abs/2501.14249), contributing to the world's most rigorous AI benchmarking initiative.
+ -Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai.
+- Co-author of the Humanity’s Last Exam a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1)[HLE research paper](https://arxiv.org/abs/2501.14249), organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025  .
   
-**AI Trainer at Outlier**
-  -Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai.
-
 ### List of Publications
 
 -	**Xavier, Joanofarc**, MA Henry Barath, Sanjib Kumar Patnaik, Rames C. Panda, and Atanu Panda. "Hybrid model using bond graph-TCN network and event triggered predictive 
