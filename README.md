@@ -59,17 +59,17 @@
 ### Honors & Awards
 
 - [Anna Centenary Research Fellowship](https://cfr.annauniv.edu/research/announcements/Acrf-2019.pdf) (2019-2021) during the PhD study at [Anna University, India](https://www.annauniv.edu/)
-- **Elsevier Reviewer Recognition** (Reviewed 20+ manuscripts) [View Recognition](https://elsevier-reviewer-recognition-joan.tiiny.site)
-- **Certificate of Recognition** from Anna University (2024) for Q1 Journal Publications [View](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1)
-- Best Paper Presenter at IFAC 2022 Conference ('International Fedaration of Automatic Control'), NIT Silchar, India [view](https://publuu.com/flip-book/796176/1758624)
-- Designed **Front Cover Art** for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023) [View Cover Art](https://pubs.acs.org/toc/iecred/62/33)
+- [Elsevier Reviewer Recognition](https://elsevier-reviewer-recognition-joan.tiiny.site) (Reviewed 20+ manuscripts)
+- [Certificate of Recognition](https://drive.google.com/drive/folders/0Bw7TrMeBmo3Va0JKb3ByV194SE0?dmr=1) from [Centre for Research](https://cfr.annauniv.edu/research/academics/index.php), Anna University (2024) for publishing research articles in Q1 Journals as per [Scimago Ranking](https://www.scimagojr.com/journalrank.php?category=1710&wos=true).
+- [Best Paper Presenter](https://publuu.com/flip-book/796176/1758624) at [IFAC 2022 Conference](http://acods2022.nits.ac.in/) ('International Fedaration of Automatic Control'), NIT Silchar, India 
+- Designed [Front Cover Art](https://pubs.acs.org/toc/iecred/62/33) for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023)
     
   
 ###  AI Benchmarking & Technical Expertise:
 
-**Contributor – Humanity’s Last Exam (HLE) Benchmark**  a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1).HLE is organized by *Centre for AI Safety & Scale AI* | 2025  
+[Contributor – Humanity’s Last Exam](https://agi.safe.ai/contributors) (HLE) Benchmark  a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1).HLE is organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI]https://scale.com/research/humanitys-last-exam  2025  
 - Designed **30+ highly challenging** questions in Electrical Engineering, Mechanical Engineering, Physics, and Machine Learning to HLE.  
-- **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.[HLE Contributers list](https://agi.safe.ai/contributors)
+- **15 questions selected** for the final benchmark dataset, with **2 ranked among the top 550 most difficult**.
 - The HLE Dataset is also available for download on [Hugging Face](https://huggingface.co/datasets/cais/hle)
 - Co-author of the **HLE research paper**, contributing to the world's most rigorous AI benchmarking initiative.[HLE Paper](https://arxiv.org/abs/2501.14249)
   
