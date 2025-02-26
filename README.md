@@ -47,10 +47,7 @@
 - Received a passing grade and verified certificate in [‘Deep learning fundamentals with Keras’ offered by IBM](https://courses.edx.org/certificates/9937b0ec7eca42428ac0e45925984ac8) in association with edX. (2024) 
 - Received a passing grade and verified certificate in the course [‘Deep learning with TensorFlow’ offered by IBM](https://courses.edx.org/certificates/a950c6cff0e54b5a9fd2c44e8928263f) in association with edX. (2024) 
 - Verified Certificate on completing the six months course on [‘Artificial Intelligence and Deep learning’ conducted by IIT Roorkee](https://iitr.ac.in/cec/CEC-1003-2021-22/165.jpg), India (2023) 
-- Project 1: [Image Classification and Pre-Trained Keras Models](https://cloudxlab.com/certificate/G5N7AD/)
-- Project 2: [Training from Scratch vs Transfer Learning](https://cloudxlab.com/certificate/TRS319/)
-- Project 3: [Autoencoders for MNIST Fashion](https://cloudxlab.com/certificate/JNJ7SA/)
-- Project 4: [How to build a Neural Network for Image Classification with Tensorflow](https://cloudxlab.com/certificate/G5N7AD/)
+
 
 ### Honors & Awards
 
