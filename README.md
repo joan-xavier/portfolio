@@ -41,8 +41,12 @@
     - **Modeling:** Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving **98% R²** with Gradient Boosting.  
     - **Deployment:** Built a Streamlit app for real-time predictions, allowing user inputs for dynamic price estimation.  
     
-### Project Certifications:
+### Project/Course Certifications:
 
+- Received a passing grade and verified certificate in [‘Machine Learning with Python – From Linear Models to Deep Learning’ offered by MITx, MA](https://courses.edx.org/certificates/996fa1a66b8243fd8cc2dddc1da867b2) in association with edX. (2024) 
+- Received a passing grade and verified certificate in [‘Deep learning fundamentals with Keras’ offered by IBM](https://courses.edx.org/certificates/9937b0ec7eca42428ac0e45925984ac8) in association with edX. (2024) 
+- Received a passing grade and verified certificate in the course [‘Deep learning with TensorFlow’ offered by IBM](https://courses.edx.org/certificates/a950c6cff0e54b5a9fd2c44e8928263f) in association with edX. (2024) 
+- Verified Certificate on completing the six months course on [‘Artificial Intelligence and Deep learning’ conducted by IIT Roorkee](https://iitr.ac.in/cec/CEC-1003-2021-22/165.jpg), India (2023) 
 - Project 1: [Image Classification and Pre-Trained Keras Models](https://cloudxlab.com/certificate/G5N7AD/)
 - Project 2: [Training from Scratch vs Transfer Learning](https://cloudxlab.com/certificate/TRS319/)
 - Project 3: [Autoencoders for MNIST Fashion](https://cloudxlab.com/certificate/JNJ7SA/)
