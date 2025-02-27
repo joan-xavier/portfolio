@@ -32,7 +32,7 @@ As a Full-time researcher at Anna University, I designed and executed multiple p
 
 ### Notable Github Projects:
 
-[Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
+[Data Science Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
  
 Employed popular data sets with outliers to conduct Exploratory Data Analysis(EDA) involving Data preprocessing, Data Wrangling and performed Data Visualization using Matplotlib and seaborn.
 
