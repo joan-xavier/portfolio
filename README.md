@@ -7,8 +7,7 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
 
 - Extensive research in [Nonlinear System Identification](https://link.springer.com/article/10.1007/s11071-023-09258-0) & Control, Predictive (Data-Driven) Modeling, and Deep Learning
 - Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis
-- Hands-on experience working with large-scale datasets,regression analysis, classification problems, feature engineering, and model deployment
-- Proficient in Python, MATLAB, SQL, Scikit-Learn, TensorFlow, and PyTorch
+- Hands-on experience working with large-scale datasets,regression analysis, classification problems, feature engineering, and model deployment.
 - Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
 - Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai
 
@@ -23,7 +22,7 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
   
 ### Collaborative Projects and Scientific Writing
 
-As a Full-time researcher at Anna University, I designed and executed multiple projects, collaborated with faculty at Central Research labs, and mentored Masters students on advanced topics in control systems, Machine learning and Deep learning which resulted in good publications.
+As a Full-time researcher at Anna University, I designed and executed multiple projects, collaborated with faculty at Central Research labs, and mentored Masters students on advanced topics in control systems, Machine learning and Deep learning which resulted in good publications in high impact factor Journals.
 
 - Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression (ML)](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212), [Hybrid modelling](https://www.sciencedirect.com/science/article/pii/S0019057824005366) for System Identification and [economic optimization](https://www.sciencedirect.com/science/article/abs/pii/S0009250923000866?via%3Dihub) of Data Driven Nonlinear Real-time systems.
 - Published multiple peer-reviewed Q1 journal articles on ML-based system identification [(Google Scholar h-index: 5)](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
@@ -33,19 +32,19 @@ As a Full-time researcher at Anna University, I designed and executed multiple p
 
 ### Notable Github Projects:
 
--  [Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
+[Data Analysis Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
  
-   Used popular data sets with outliers to conduct Exploratory Data Analysis(EDA) involving Data preprocessing, Data Wrangling and performed Data Visualization using Matplotlib and seaborn.
-   Statistical Analysis: Utilized chi-square tests for categorical variables, t-tests for numerical comparisons, and correlation heatmaps to identify key observations from data
+Employed popular data sets with outliers to conduct Exploratory Data Analysis(EDA) involving Data preprocessing, Data Wrangling and performed Data Visualization using Matplotlib and seaborn.
+
+Statistical Analysis: Utilized chi-square tests for categorical variables, t-tests for numerical comparisons, and correlation heatmaps to identify key observations from data
    
--  [ML Projects](https://github.com/joan-xavier/ML_projects_2024)
+[ML Projects](https://github.com/joan-xavier/ML_projects_2024)
   
-   Implemented projects on Supervised learning using Scikit-learn, Keras and SciPy (Regression Analysis: Linear Regression, Random Forest, Gradient Boosting, and SVR; 
-   Classification    Analysis: Logistic Regression, Decision Trees and Random Forest Classifier)
+Implemented projects on Supervised learning using Scikit-learn, Keras and SciPy (Regression Analysis: Linear Regression, Random Forest, Gradient Boosting, and SVR; Classification  Analysis: Logistic Regression, Decision Trees and Random Forest Classifier)
    
--  [Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
+[Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
   
-   Implemented works on numpy, scipy, reading and writing files involving datatime. 
+Implemented works on data record management involving numpy, scipy, reading and writing files using datatime. 
 
 ### Featured ML Projects
 
@@ -86,7 +85,7 @@ Demostrated Temporal Convolutional Networks (TCN) and LSTM networks to accuratel
    
 ### Research Publications
 
-I have published around 10 peer-reviewed articles in  peer reviewed science citation indexed journals. Among these, three research articles were focused on Machine learning based system identification as a first author in journals with high impact factor. My publications have over 60 total citations and a h-index of 5. 
+I have published around 10 peer-reviewed articles in science citation indexed journals. Among these, three research articles were focused on Machine learning based system identification as a first author in journals with high impact factor. My publications have over 60 total citations and a h-index of 5. 
 You can view my publications in the [my Google Scholar page](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
 
 
