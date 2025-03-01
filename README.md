@@ -63,8 +63,11 @@ b. [Deep Learning–Based System Identification](https://pubs.acs.org/doi/10.102
 Demostrated Temporal Convolutional Networks (TCN) and LSTM networks to accurately model and control a highly nonlinear pH neutralization process.Executed sequence modeling, time‐series forecasting, hyperparameter tuning, and closed‐loop optimization.
 
    **Key Highlights:** 
+    - Data partitioned to (train/test) and model development
+    - Formulated nonlinear objective functions, involved regularization methods like (Ridge, Lasso, Droppot) to overcome overfitting
     - Used dilated causal convolutions and a residual learning framework for parallel processing and to handle very long sequences. 
-    - Implemented hyperparameter tuning (dropout, learning rates, filter size, hidden-state size) to enhance generalization
+    - Implemented hyperparameter tuning (dropout, learning rates, filter size, hidden-state size) and grid search optimizer to enhance generalization
+    - Validated the prediction accuracy through standard statistical metrics
     
 ### Project/Course Certifications:
 
