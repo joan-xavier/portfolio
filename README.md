@@ -9,8 +9,8 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
 - Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis.
 - Strong proficiency in programming languages such as Python and Matlab for Machine Learning and knowledge of database technology (writing SQL Queries).
 - Expertise in data manipulation and analysis libraries ( Pandas, NumPy, SciPy, TensorFlow, Keras).
-- Hands-on experience working with large-scale datasets,regression analysis, classification problems, feature engineering, and model deployment.
-- Knowledge of basic understanding of statistics and experience using statistical packages for analyzing large datasets.
+- Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
+- Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
 - Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
 - Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai
 
