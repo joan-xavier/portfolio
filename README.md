@@ -7,9 +7,10 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
 
 - Extensive research in [Nonlinear System Identification](https://link.springer.com/article/10.1007/s11071-023-09258-0) & Control, Predictive (Data-Driven) Modeling, and Deep Learning
 - Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis.
-- Strong proficiency in programming languages such as Python and Matlab for Machine Learning and knowledge of database technology (SQL).
+- Strong proficiency in programming languages such as Python and Matlab for Machine Learning and knowledge of database technology (writing SQL Queries).
 - Expertise in data manipulation and analysis libraries ( Pandas, NumPy, SciPy, TensorFlow, Keras).
 - Hands-on experience working with large-scale datasets,regression analysis, classification problems, feature engineering, and model deployment.
+- Knowledge of basic understanding of statistics and experience using statistical packages for analyzing large datasets.
 - Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
 - Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai
 
@@ -19,7 +20,7 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
 - **ML & Deep Learning Frameworks:** TensorFlow, Keras, PyTorch, Scikit-Learn
 - **Data Analytics & Visualization:** Pandas, Matplotlib, Seaborn, Plotly
 - **Development Tools:** VS Code, PyCharm, MATLAB & Simulink
-- **Version Control:** Git & GitHub
+- **Version Control:** Proficient in Git & GitHub
 
   
 ### Collaborative Projects and Scientific Writing
