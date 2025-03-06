@@ -1,7 +1,7 @@
 
 ## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science  Research
 
-In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/), I worked on a challenging multi-disciplinary topic – ‘Nonlinear system Identification, nonlinearity quantification and control of Nonlinear Systems’, where I integrated the concepts of Nonlinear Control systems design from Electrical Engineering, time series analysis from Machine learning/deep learning algorithms and applied it to control engineering problems. This experience shaped my skills in analysing large raw datasets, applying rigorous optimization solvers,hyperparameter tuning and developing new approaches to complex real-world problems.This experience also stimulated my deep interest in diving in-depth in Machine learning/Deep learning algorithms and exploring Data Science to transition into this field.
+In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/), I worked on a challenging multi-disciplinary topic – ‘Nonlinear system Identification, nonlinearity quantification and control of Nonlinear Systems’, where I integrated the concepts of Nonlinear system identification from Electrical Engineering, time series analysis and forecasting (ARIMA  Models) from Machine learning/deep learning algorithms and applied it to control engineering problems. This experience shaped my skills in analysing large raw datasets, applying rigorous optimization solvers,hyperparameter tuning and developing new approaches to complex real-world problems.This experience also stimulated my deep interest in diving in-depth in Machine learning/Deep learning algorithms and exploring Data Science to transition into this field.
 
 ## Technical Expertise
 
