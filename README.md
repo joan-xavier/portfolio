@@ -84,9 +84,9 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
     -	Validated the testing data results and loss using statistical metrics (MAE, RMSE and R2 score)
 
 
-c. [Deep Learning–Based System Identification](https://pubs.acs.org/doi/10.1021/acs.iecr.3c01212)  
+c. [Data Driven Modelling from Time series Data](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub)  
 
-Demostrated Temporal Convolutional Networks (TCN) and LSTM networks to accurately model and control a highly nonlinear pH neutralization process.Executed sequence modeling, time‐series forecasting, hyperparameter tuning, and closed‐loop optimization.
+Demostrated Temporal Convolutional Networks (TCN) and CNN- LSTM networks to accurately model and control a highly nonlinear pH neutralization process.Executed sequence modeling, time‐series forecasting, hyperparameter tuning, and closed‐loop optimization.
 
    **Key Highlights:** 
     - Data partitioned to (train/test) and model development
