@@ -43,32 +43,22 @@ As a Full-time researcher at Anna University, I designed and executed multiple p
 [Regression Analysis using kSINDYc - A ML Approach](https://link.springer.com/article/10.1007/s11071-023-09258-0):
 - Conducted time series analysis on process control data sets including Continuous Strirred Tank Reactors, Heat Exchanger and Bioreactor using a novel machine learning algorithm called key term based Sparse Regression of Nonlinear Dynamics and Control (kSINDYc) and validated their training and testing accuracy using statistical metrics. 
 
-### Notable Github Projects:
+### Github Projects:
 
-[Data Science Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
- 
-Employed popular data sets with outliers to conduct Exploratory Data Analysis(EDA) involving Data preprocessing, Data Wrangling and performed Data Visualization using Matplotlib and seaborn.
+For Data Science Projects[Click here](https://github.com/joan-xavier/Data_Analysis_Python_2024)
+For ML Projects[Click here](https://github.com/joan-xavier/ML_projects_2024)
+For Python Projects[Click here](https://github.com/joan-xavier/Python_Projects_2024)
 
-Statistical Analysis: Utilized chi-square tests for categorical variables, t-tests for numerical comparisons, and correlation heatmaps to identify key observations from data
+### Notable ML related Project Works:
 
-[ML Projects](https://github.com/joan-xavier/ML_projects_2024)
-  
-Implemented projects on Supervised learning using Scikit-learn, Keras and SciPy (Regression Analysis: Linear Regression, Random Forest, Gradient Boosting, and SVR; Classification  Analysis: Logistic Regression, Decision Trees and Random Forest Classifier)
-   
-[Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
-  
-Implemented works on data record management involving numpy, scipy, reading and writing files using datatime. 
-
-### Featured ML Projects
-
-a. [California House Price Prediction](https://github.com/joan-xavier/ML_projects_2024/tree/main/P1_California_HousePrice_Regression_Analysis)
+a. [California House Price Prediction-Regression Problem](https://github.com/joan-xavier/ML_projects_2024/tree/main/P1_California_HousePrice_Regression_Analysis)
 
 Developed a full ML pipeline end to end project to predict California house prices, covering data preprocessing, feature 
-engineering, model selection, evaluation, and deployment.
+engineering, model selection, evaluation, and deployment. 
     
   **Key Highlights:**  
     - Data Processing & EDA: Cleaned data, removed outliers, introduced new features in Pandas, and visualized trends using Matplotlib & Seaborn.  
-    - Modeling: Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving 98% R² with Gradient Boosting using Scikit-learn.  
+    - Modeling: Regression Analysis- Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving 98% R² with Gradient Boosting using Scikit-learn.  
     - Deployment: Built a Streamlit app for real-time predictions using Joblib, allowing user inputs for dynamic price estimation.
     
 b. [Bit-Coin Price prediction using Time-series Forecasting]()
