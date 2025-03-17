@@ -1,14 +1,14 @@
 
 ## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science  Research
 
-In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/), I worked on a challenging multi-disciplinary topic – ‘Nonlinear system Identification, nonlinearity quantification and control of Nonlinear Systems’, where I integrated the concepts of Nonlinear system identification from Electrical Engineering, time series analysis and forecasting (ARIMA  Models) from Machine learning/deep learning algorithms and applied it to control engineering problems. This experience shaped my skills in analysing large raw datasets, applying rigorous optimization solvers,hyperparameter tuning and developing new approaches to complex real-world problems.This experience also stimulated my deep interest in diving in-depth in Machine learning/Deep learning algorithms and exploring Data Science to transition into this field.
+In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/), I worked on a challenging multi-disciplinary topic – ‘Nonlinear system Identification, nonlinearity quantification and control of Nonlinear Systems’, where I integrated the concepts of Nonlinear system identification from Electrical Engineering, time series  forecasting (ARIMA  Models) and analysis using Machine learning/deep learning algorithms and applied it to control engineering problems. This experience shaped my skills in analysing large raw datasets, applying rigorous optimization solvers,hyperparameter tuning and developing new approaches to complex real-world problems.This experience also stimulated my deep interest in diving in-depth in Machine learning/Deep learning algorithms and exploring Data Science to transition into this field.
 
 ## Technical Expertise
 
 - Extensive research in [Nonlinear System Identification](https://link.springer.com/article/10.1007/s11071-023-09258-0) & Control, Predictive (Data-Driven) Modeling, and Deep Learning
-- Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis.
+- Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis using ARIMA, SARIMAX and NARX methods.
 - Strong proficiency in programming languages such as Python and Matlab for Machine Learning and knowledge of database technology (writing SQL Queries).
-- Expertise in data manipulation and analysis libraries ( Pandas, NumPy, SciPy, TensorFlow, Keras).
+- Expertise in data analysis, statistical and Machine learning libraries ( Pandas, NumPy, SciPy, Statsmodel, Scikit-Learn, TensorFlow, Keras).
 - Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
 - Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
 - Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
@@ -31,7 +31,17 @@ As a Full-time researcher at Anna University, I designed and executed multiple p
 - Published multiple peer-reviewed Q1 journal articles on ML-based system identification [(Google Scholar h-index: 5)](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
 - Reviewer for Elsevier & IMechE Journals (Reviewed 20+ manuscripts)
 - Co-author of the Humanity’s Last Exam a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 
-  4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1)[HLE research paper](https://arxiv.org/abs/2501.14249), organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025  .
+  4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1)[HLE research paper](https://arxiv.org/abs/2501.14249), organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025.
+
+
+### Notable Research in Data Science (With high impact factor Research Publications):
+
+[Time series forecasting of a Real Time  pH Neutralization Process](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212): 
+- Identified the trends, seasonality and irregular values of pH, acid and base flow rate data for time- series forecasting.
+- Predicted the nonlinear dynamics of the multislope pH titration curve using Nonlinear ARX, RNN and LSTM  Networks.
+
+[Regression Analysis using kSINDYc - A ML Approach](https://link.springer.com/article/10.1007/s11071-023-09258-0):
+- Conducted time series analysis on process control data sets including Continuous Strirred Tank Reactors, Heat Exchanger and Bioreactor using a novel machine learning algorithm called key term based Sparse Regression of Nonlinear Dynamics and Control (kSINDYc) and validated their training and testing accuracy using statistical metrics. 
 
 ### Notable Github Projects:
 
@@ -40,7 +50,7 @@ As a Full-time researcher at Anna University, I designed and executed multiple p
 Employed popular data sets with outliers to conduct Exploratory Data Analysis(EDA) involving Data preprocessing, Data Wrangling and performed Data Visualization using Matplotlib and seaborn.
 
 Statistical Analysis: Utilized chi-square tests for categorical variables, t-tests for numerical comparisons, and correlation heatmaps to identify key observations from data
-   
+
 [ML Projects](https://github.com/joan-xavier/ML_projects_2024)
   
 Implemented projects on Supervised learning using Scikit-learn, Keras and SciPy (Regression Analysis: Linear Regression, Random Forest, Gradient Boosting, and SVR; Classification  Analysis: Logistic Regression, Decision Trees and Random Forest Classifier)
@@ -60,8 +70,21 @@ engineering, model selection, evaluation, and deployment.
     - Data Processing & EDA: Cleaned data, removed outliers, introduced new features in Pandas, and visualized trends using Matplotlib & Seaborn.  
     - Modeling: Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving 98% R² with Gradient Boosting using Scikit-learn.  
     - Deployment: Built a Streamlit app for real-time predictions using Joblib, allowing user inputs for dynamic price estimation.
+    
+b. [Bit-Coin Price prediction using Time-series Forecasting]()
 
-b. [Deep Learning–Based System Identification](https://pubs.acs.org/doi/10.1021/acs.iecr.3c01212)  
+The primary objective of this project is to compare the accuracy of bitcoin price in USD prediction from time-series data based on two different models, Long Short term Memory (LSTM) network and ARIMA model. Collected the recent dataset (Sep 2014 - March 2025) from yahoo financing.  
+
+**Key Highlights:**  
+    -	Conducted Time series based Exploratory Data Analysis (EDA) using NumPy, Pandas, datetime, Matplotlib, Seaborn, Statsmodels and SciPy
+    -	Analysed Trend, seasonality, Cyclicity and Irregularity in the data
+    -	Performed Auto correlation (ACF), Partial Auto Correlation, (PACF) and differencing the series for ARIMA, ARMA and SARIMAX Models  
+    -	Conducted Stationarity test using ADF test and Rolling Window Method
+    -	Sequential data based LSTM Model developed using Adams Optimizer and involved in hyperparameter tuning
+    -	Validated the testing data results and loss using statistical metrics (MAE, RMSE and R2 score)
+
+
+c. [Deep Learning–Based System Identification](https://pubs.acs.org/doi/10.1021/acs.iecr.3c01212)  
 
 Demostrated Temporal Convolutional Networks (TCN) and LSTM networks to accurately model and control a highly nonlinear pH neutralization process.Executed sequence modeling, time‐series forecasting, hyperparameter tuning, and closed‐loop optimization.
 
