@@ -27,7 +27,7 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
 
 As a Full-time researcher at Anna University, I designed and executed multiple projects, collaborated with faculty at Central Research labs, and mentored Masters students on advanced topics in control systems, Machine learning and Deep learning which resulted in good publications in high impact factor Journals.
 
-- Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression (ML)](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212), [Hybrid modelling](https://www.sciencedirect.com/science/article/pii/S0019057824005366) for System Identification and [economic optimization](https://www.sciencedirect.com/science/article/abs/pii/S0009250923000866?via%3Dihub) of Data Driven Nonlinear Real-time systems.
+- Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression (ML)](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212), Hybrid modelling for System Identification and [economic optimization](https://www.sciencedirect.com/science/article/abs/pii/S0009250923000866?via%3Dihub) of Data Driven Nonlinear Real-time systems.
 - Published multiple peer-reviewed Q1 journal articles on ML-based system identification [(Google Scholar h-index: 5)](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
 - Reviewer for Elsevier & IMechE Journals (Reviewed 20+ manuscripts)
 - Co-author of the Humanity’s Last Exam a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 
@@ -36,14 +36,22 @@ As a Full-time researcher at Anna University, I designed and executed multiple p
 
 ### Notable Research in Data Science (With high impact factor Research Publications):
 
-[Time series forecasting of a Real Time  pH Neutralization Process](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212): 
-- Identified the trends, seasonality and irregular values of pH, acid and base flow rate data for time- series forecasting.
-- Predicted the nonlinear dynamics of the multislope pH titration curve using Nonlinear ARX, RNN and LSTM  Networks.
+Time series forecasting of a Real Time  pH Neutralization Process: 
+
+Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow rate) of a complex nonlinear pH neutralization process. The nonlinear dynamics of the  pH titration curve is predicted using deep learning algorithms: [Temporal Convolutional Networks (TCN) and LSTM networks](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212) 
+
+**Key Highlights:** 
+-  Data partitioned to (train/test) and model development, Identified the trends, seasonality and irregular values of pH, acid and base flow rate data for time- series forecasting.
+- Predicted the nonlinear dynamics of the multislope pH titration curve using [Nonlinear ARX,ARIMA, RNN and CNN-LSTM Networks](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub).
+- Executed sequence modeling: used dilated causal convolutions and a residual learning framework for parallel processing and to handle very long sequences. 
+- Implemented hyperparameter tuning (dropout, learning rates, filter size, hidden-state size) and grid search optimizer to enhance generalization
+- Validated the prediction accuracy through standard statistical metrics(Descriptive and Inferential).
 
 [Regression Analysis using kSINDYc - A ML Approach](https://link.springer.com/article/10.1007/s11071-023-09258-0):
-- Conducted time series analysis on process control data sets including Continuous Strirred Tank Reactors, Heat Exchanger and Bioreactor using a novel machine learning algorithm called key term based Sparse Regression of Nonlinear Dynamics and Control (kSINDYc) and validated their training and testing accuracy using statistical metrics. 
+- Conducted time series analysis on process control data sets including Continuous Strirred Tank Reactors, Heat Exchanger and Bioreactor using a novel machine learning algorithm called key term based Sparse Regression of Nonlinear Dynamics and Control (kSINDYc) and validated their training and testing accuracy using statistical metrics.
+- Formulated nonlinear objective functions, involved regularization methods like (Ridge, Lasso, Droppot) to overcome overfitting
 
-### Notable ML related Project Works:
+### Notable ML related Project Works (Github):
 
 a. [California House Price Prediction-Regression Problem](https://github.com/joan-xavier/ML_projects_2024/tree/main/P1_California_HousePrice_Regression_Analysis)
 
@@ -66,19 +74,12 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
     -	Conducted Stationarity test using ADF test and Rolling Window Method
     -	Sequential data based LSTM Model developed using Adams Optimizer and involved in hyperparameter tuning
     -	Validated the testing data results and loss using statistical metrics (MAE, RMSE and R2 score)
+  
+c. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
 
-
-c. [pH Neutralization process real- time dataset -Data Driven Modelling from Time series Data](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub)  
-Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow rate) of a complex nonlinear pH neutralization process. The nonlinear dynamics of the  pH titration curve is predicted using deep learning algorithms: Temporal Convolutional Networks (TCN) and CNN- LSTM networks and the accuracy is verified using RMSE, MAE and fit%.Executed sequence modeling, time‐series forecasting, hyperparameter tuning, and closed‐loop optimization.
-
-   **Key Highlights:** 
-    - Data partitioned to (train/test) and model development
-    - Formulated nonlinear objective functions, involved regularization methods like (Ridge, Lasso, Droppot) to overcome overfitting
-    - Used dilated causal convolutions and a residual learning framework for parallel processing and to handle very long sequences. 
-    - Implemented hyperparameter tuning (dropout, learning rates, filter size, hidden-state size) and grid search optimizer to enhance generalization
-    - Validated the prediction accuracy through standard statistical metrics.
+ Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis
+  **Key Highlights:** 
     
-  d. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
     - Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data(Education, Marital_Status) 
       based on income.
     - Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
@@ -104,14 +105,14 @@ Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow
 - Designed [Front Cover Art](https://pubs.acs.org/toc/iecred/62/33) for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023)
     
    
-### Research Publications
-
-I have published around 10 peer-reviewed articles in science citation indexed journals. Among these, three research articles were focused on Machine learning based system identification as a first author in journals with high impact factor. My publications have over 60 total citations and a h-index of 5. 
-You can view my publications in the [my Google Scholar page](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
-
-
 ### Github Projects:
 
 [Data Science Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
 [ML Projects](https://github.com/joan-xavier/ML_projects_2024)
 [For Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
+
+
+### Research Publications
+
+I have published around 10 peer-reviewed articles in science citation indexed journals. Among these, three research articles were focused on Machine learning based system identification as a first author in journals with high impact factor. My publications have over 60 total citations and a h-index of 5. 
+You can view my publications in the [my Google Scholar page](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
