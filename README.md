@@ -61,7 +61,7 @@ engineering, model selection, evaluation, and deployment.
     - Modeling: Regression Analysis- Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving 98% R² with Gradient Boosting using Scikit-learn.  
     - Deployment: Built a Streamlit app for real-time predictions using Joblib, allowing user inputs for dynamic price estimation.
     
-b. [Bit-Coin Price prediction using Time-series Forecasting]()
+b. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
 
 The primary objective of this project is to compare the accuracy of bitcoin price in USD prediction from time-series data based on two different models, Long Short term Memory (LSTM) network and ARIMA model. Collected the recent dataset (Sep 2014 - March 2025) from yahoo financing.  
 
@@ -74,16 +74,24 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
     -	Validated the testing data results and loss using statistical metrics (MAE, RMSE and R2 score)
 
 
-c. [Data Driven Modelling from Time series Data](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub)  
-
-Demostrated Temporal Convolutional Networks (TCN) and CNN- LSTM networks to accurately model and control a highly nonlinear pH neutralization process.Executed sequence modeling, time‐series forecasting, hyperparameter tuning, and closed‐loop optimization.
+c. [pH Neutralization process real- time dataset -Data Driven Modelling from Time series Data](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub)  
+Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow rate) of a complex nonlinear pH neutralization process. The nonlinear dynamics of the  pH titration curve is predicted using deep learning algorithms: Temporal Convolutional Networks (TCN) and CNN- LSTM networks and the accuracy is verified using RMSE, MAE and fit%.Executed sequence modeling, time‐series forecasting, hyperparameter tuning, and closed‐loop optimization.
 
    **Key Highlights:** 
     - Data partitioned to (train/test) and model development
     - Formulated nonlinear objective functions, involved regularization methods like (Ridge, Lasso, Droppot) to overcome overfitting
     - Used dilated causal convolutions and a residual learning framework for parallel processing and to handle very long sequences. 
     - Implemented hyperparameter tuning (dropout, learning rates, filter size, hidden-state size) and grid search optimizer to enhance generalization
-    - Validated the prediction accuracy through standard statistical metrics
+    - Validated the prediction accuracy through standard statistical metrics.
+    
+  d. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
+    - Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data(Education, Marital_Status) 
+      based on income.
+    - Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
+    - Ordinal Encoding and mapping based on Education level as (for category:Basic: 0,2Nd Cycle: 1, Graduation: 2,Master: 3,Phd: 4)
+    - one-hot encoding using pd.get_dummies to get new columns
+    - Identify top-performing products & lowest revenue
+    - Four different Hypothesis Testing and their results
     
 ### Project/Course Certifications:
 
