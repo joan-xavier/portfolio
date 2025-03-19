@@ -43,12 +43,6 @@ As a Full-time researcher at Anna University, I designed and executed multiple p
 [Regression Analysis using kSINDYc - A ML Approach](https://link.springer.com/article/10.1007/s11071-023-09258-0):
 - Conducted time series analysis on process control data sets including Continuous Strirred Tank Reactors, Heat Exchanger and Bioreactor using a novel machine learning algorithm called key term based Sparse Regression of Nonlinear Dynamics and Control (kSINDYc) and validated their training and testing accuracy using statistical metrics. 
 
-### Github Projects:
-
-For Data Science Projects[Click here](https://github.com/joan-xavier/Data_Analysis_Python_2024)
-For ML Projects[Click here](https://github.com/joan-xavier/ML_projects_2024)
-For Python Projects[Click here](https://github.com/joan-xavier/Python_Projects_2024)
-
 ### Notable ML related Project Works:
 
 a. [California House Price Prediction-Regression Problem](https://github.com/joan-xavier/ML_projects_2024/tree/main/P1_California_HousePrice_Regression_Analysis)
@@ -114,3 +108,10 @@ Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow
 
 I have published around 10 peer-reviewed articles in science citation indexed journals. Among these, three research articles were focused on Machine learning based system identification as a first author in journals with high impact factor. My publications have over 60 total citations and a h-index of 5. 
 You can view my publications in the [my Google Scholar page](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
+
+
+### Github Projects:
+
+[Data Science Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
+[ML Projects](https://github.com/joan-xavier/ML_projects_2024)
+[For Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
