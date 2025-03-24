@@ -73,20 +73,20 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
     -	Performed Auto correlation (ACF), Partial Auto Correlation, (PACF) and differencing the series for ARIMA, ARMA and SARIMAX Models  
     -	Conducted Stationarity test using ADF test and Rolling Window Method
     -	Sequential data based LSTM Model developed using Adams Optimizer and involved in hyperparameter tuning
-    -	Validated the testing data results and loss using statistical metrics (MAE, RMSE and R2 score)
+    -	Validated the testing data results and loss using statistical metrics (MAE, RMSE and R^2 score)
   
 c. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
 
  Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis
   **Key Highlights:** 
     
-    - Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data(Education, Marital_Status) 
-      based on income.
-    - Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
-    - Ordinal Encoding and mapping based on Education level as (for category:Basic: 0,2Nd Cycle: 1, Graduation: 2,Master: 3,Phd: 4)
-    - one-hot encoding using pd.get_dummies to get new columns
-    - Identify top-performing products & lowest revenue
-    - Four different Hypothesis Testing and their results
+- Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data(Education, Marital_Status) 
+  based on income.
+- Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
+- Ordinal Encoding and mapping based on Education level as (for category:Basic: 0,2Nd Cycle: 1, Graduation: 2,Master: 3,Phd: 4)
+- one-hot encoding using pd.get_dummies to get new columns
+- Identify top-performing products & lowest revenue
+- Four different Hypothesis Testing and their results
     
 ### Project/Course Certifications:
 
