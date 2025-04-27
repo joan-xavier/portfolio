@@ -91,10 +91,13 @@ b. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com
 -	Identified high/low-performing products through Pandas groupby analysis, recommending promotion reallocation toward top-selling categories to maximize Return On Investment (ROI).Forecasted $250K increase in quarterly revenue based on improved conversion rates and reduced churn
 Recommended reallocation of 30% more budget toward Segment B(ages 25–34) and shift email content strategy to focus on personalized offers.
 
-c. SQL Project using Paintings & Museum Dataset:
+c. [SQL Project using Paintings & Museum Dataset](https://github.com/joan-xavier/Data_Analysis_Python_2024/blob/main/SQL_music_store_project1.pdf):
 
 Analyzed museum inventory data with SQL to identify unexhibited paintings and underutilized museum spaces. Discovered 15% of artworks not displayed, highlighting opportunities to improve visitor engagement and provided insights to optimize art rotations and enhance museum profitability.
-  -Optimized museum inventory insights by querying the Famous Paintings & Museum dataset, identifying 15% of paintings not currently exhibited and uncovering underutilized museum spaces.
+
+ **Key Highlights:** 
+ 
+  -Optimized museum inventory insights by querying and identifying 15% of paintings not currently exhibited and uncovering underutilized museum spaces.
 - Improved collection management by detecting museums with no associated paintings, enabling better artwork distribution planning and enhancing visitor experience.
 - Enhanced data-driven decision-making by cleaning inconsistencies (e.g., mismatched artist IDs, missing gallery assignments) to support accurate reporting on artwork visibility and artist representation
 
