@@ -1,7 +1,7 @@
+## About Me:
 
-## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science  Research
+I completed my PhD in Electrical Engineering, during which I undertook courseworks in Machine Learning and Statistics for Data Science. Alongside my coursework, I conducted research focused on Exploratory Data Analysis (EDA) and Machine Learning algorithms. This combination of academic training and hands-on research sparked my interest in transitioning from academia to the data science industry. I found the process of working with raw data, uncovering patterns, and transforming numbers into meaningful insights and actionable business recommendations fascinating. I began relentlessly working on Python, SQL, Excel, Tableau and this journey naturally shifted my career trajectory toward becoming a data scientist, where I could utilize my skills in data analysis, machine learning, and statistical modeling to solve real-world problems.
 
-In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/), I worked on a challenging multi-disciplinary topic – ‘Nonlinear system Identification, nonlinearity quantification and control of Nonlinear Systems’, where I integrated the concepts of Nonlinear system identification from Electrical Engineering, time series  forecasting (ARIMA  Models) and analysis using Machine learning/deep learning algorithms and applied it to control engineering problems. This experience shaped my skills in analysing large raw datasets, applying rigorous optimization solvers,hyperparameter tuning and developing new approaches to complex real-world problems.This experience also stimulated my deep interest in diving in-depth in Machine learning/Deep learning algorithms and exploring Data Science to transition into this field.
 
 ## Technical Expertise
 
@@ -16,12 +16,15 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
 
 ## Skills & Tools
 
-- **Languages:** Python, MATLAB, SQL
-- **ML & Deep Learning Frameworks:** TensorFlow, Keras, PyTorch, Scikit-Learn
+- **Programming:** Python, MySQL,ProtgreSQL, Excel, Matlab
+- **ML & Deep Learning Frameworks:** Keras, Scikit-Learn,TensorFlow, PyTorch
 - **Data Analytics & Visualization:** Pandas, Matplotlib, Seaborn, Plotly
 - **Development Tools:** VS Code, PyCharm, MATLAB & Simulink
 - **Version Control:** Proficient in Git & GitHub
-
+- Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data 
+  based on features. Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
+- Model Deployment using Flask
+- Writing SQL Queries for Real world Problems
   
 ### Collaborative Projects and Scientific Writing
 
@@ -42,6 +45,11 @@ Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow
 
 **Key Highlights:** 
 -  Data partitioned to (train/test) and model development, Identified the trends, seasonality and irregular values of pH, acid and base flow rate data for time- series forecasting.
+- Developed TCN and LSTM based pH prediction models with TCN outperforming LSTM with RMSE = 0.023 and R² = 97.6%, ensuring 18% less downtime in process operations.
+-	Tuned hyperparameters (kernel size, dilation, dropout) using grid search, improving model accuracy by +8% and cutting validation loss by > 30%, while preventing overfitting through dropout (0.3) and weight normalization.
+-	Reduced calibration/setup time by 40% through accurate modeling of nonlinear titration curves, increasing production throughput and reducing batch delays.
+-	Delivered $50K/year in savings through improved pH balance, reducing chemical wastage by 30% and extending equipment lifespan in pilot-scale systems.
+-	Designed models for cloud and edge deployment, supporting real-time pH control supporting smarter scheduling, procurement, and logistics planning.
 - Predicted the nonlinear dynamics of the multislope pH titration curve using [Nonlinear ARX,ARIMA, RNN and CNN-LSTM Networks](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub).
 - Executed sequence modeling: used dilated causal convolutions and a residual learning framework for parallel processing and to handle very long sequences. 
 - Implemented hyperparameter tuning (dropout, learning rates, filter size, hidden-state size) and grid search optimizer to enhance generalization
@@ -53,41 +61,44 @@ Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow
 
 ### Notable ML related Project Works (Github):
 
-a. [California House Price Prediction-Regression Problem](https://github.com/joan-xavier/ML_projects_2024/tree/main/P1_California_HousePrice_Regression_Analysis)
-
-Developed a full ML pipeline end to end project to predict California house prices, covering data preprocessing, feature 
-engineering, model selection, evaluation, and deployment. 
-    
-  **Key Highlights:**  
-    - Data Processing & EDA: Cleaned data, removed outliers, introduced new features in Pandas, and visualized trends using Matplotlib & Seaborn.  
-    - Modeling: Regression Analysis- Implemented Linear Regression, Random Forest, Gradient Boosting, and SVR, achieving 98% R² with Gradient Boosting using Scikit-learn.  
-    - Deployment: Built a Streamlit app for real-time predictions using Joblib, allowing user inputs for dynamic price estimation.
-    
-b. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
-
-The primary objective of this project is to compare the accuracy of bitcoin price in USD prediction from time-series data based on two different models, Long Short term Memory (LSTM) network and ARIMA model. Collected the recent dataset (Sep 2014 - March 2025) from yahoo financing.  
+a. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
+ToolsUsed: NumPy, Pandas, datetime, Matplotlib, Seaborn, Statsmodels and SciPy
+The primary objective of this project is to compare the accuracy of bitcoin price in USD prediction from time-series data based on two different models, Long Short term Memory (LSTM) network and ARIMA model. Collected the recent dataset (Sep 2014 - March 2025) from yahoo financing. Here are the questions I was interested in answering:
+  - How exactly did detecting trends 12–24 hours earlier help the business?
+  - What smoothing techniques did you use, and why were they chosen over others?
+  - Were there any false positives in trend detection? How did you handle them?
+  - How reliable was the ADF test in real-world (live) data compared to historical data?
 
 **Key Highlights:**  
-    -	Conducted Time series based Exploratory Data Analysis (EDA) using NumPy, Pandas, datetime, Matplotlib, Seaborn, Statsmodels and SciPy
-    -	Analysed Trend, seasonality, Cyclicity and Irregularity in the data
-    -	Performed Auto correlation (ACF), Partial Auto Correlation, (PACF) and differencing the series for ARIMA, ARMA and SARIMAX Models  
-    -	Conducted Stationarity test using ADF test and Rolling Window Method
-    -	Sequential data based LSTM Model developed using Adams Optimizer and involved in hyperparameter tuning
-    -	Validated the testing data results and loss using statistical metrics (MAE, RMSE and R^2 score)
-  
-c. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
+•	Detected early price trends by transforming and stabilizing Bitcoin data using ADF tests and smoothing techniques, helping teams react 12–24 hours sooner during trend and seasonality shifts.
+•	Improved price prediction forecast accuracy by comparing ARIMA and LSTM models, showing LSTM reduced errors by 18% -helping guide future model choices.
+•	Saved analyst monitoring time by automating steps like differencing and correlation checks (ACF, PACF) with statistical tools, reducing manual work by around 10 hours per week, making insights easy to understand for non-
+•	Built trust in predictions by validating models with clear performance metrics (MAE, RMSE, and R²) and visuals, making insights easy to understand for non-technical teams.
+•	Recommended weekly model updates to keep forecasts accurate during market swings, helping reduce prediction delays and improve response times during high-noise events like news-driven price fluctuations.
 
- Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis
+b. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
+
+ Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis. Here are the questions I was interested in answering.
+ - How does the US market's performance specifically differ from other countries? Are there particular products, prices, or promotions driving this?
+ - Which of the five Ps (People, Product, Price, Place, Promotion) had the biggest impact on campaign success?
+ - Based on your hypothesis testing, what immediate actions would you recommend for marketing strategy in the US versus globally?
+   
   **Key Highlights:** 
     
-- Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data(Education, Marital_Status) 
-  based on income.
-- Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
 - Ordinal Encoding and mapping based on Education level as (for category:Basic: 0,2Nd Cycle: 1, Graduation: 2,Master: 3,Phd: 4)
-- one-hot encoding using pd.get_dummies to get new columns
-- Identify top-performing products & lowest revenue
-- Four different Hypothesis Testing and their results
-    
+-	Encoded categorical variables using ordinal and one-hot encoding with Pandas, ensuring compatibility with statistical models and boosting hypothesis test accuracy.
+-	Conducted hypothesis testing with SciPy t-tests to validate age-channel preferences, child-based online behavior, channel cannibalization, and U.S. purchasing dominance - guiding campaign focus and regional resource allocation.
+-	Identified high/low-performing products through Pandas groupby analysis, recommending promotion reallocation toward top-selling categories to maximize Return On Investment (ROI).Forecasted $250K increase in quarterly revenue based on improved conversion rates and reduced churn
+Recommended reallocation of 30% more budget toward Segment B(ages 25–34) and shift email content strategy to focus on personalized offers.
+
+c. SQL Project using Paintings & Museum Dataset:
+
+Analyzed museum inventory data with SQL to identify unexhibited paintings and underutilized museum spaces. Discovered 15% of artworks not displayed, highlighting opportunities to improve visitor engagement and provided insights to optimize art rotations and enhance museum profitability.
+  -Optimized museum inventory insights by querying the Famous Paintings & Museum dataset, identifying 15% of paintings not currently exhibited and uncovering underutilized museum spaces.
+- Improved collection management by detecting museums with no associated paintings, enabling better artwork distribution planning and enhancing visitor experience.
+- Enhanced data-driven decision-making by cleaning inconsistencies (e.g., mismatched artist IDs, missing gallery assignments) to support accurate reporting on artwork visibility and artist representation
+
+- 
 ### Project/Course Certifications:
 
 - Received a passing grade and verified certificate in [‘Machine Learning with Python – From Linear Models to Deep Learning’ offered by MITx, MA](https://courses.edx.org/certificates/996fa1a66b8243fd8cc2dddc1da867b2) in association with edX. (2024) 
@@ -111,6 +122,10 @@ c. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com
 [ML Projects](https://github.com/joan-xavier/ML_projects_2024)
 [For Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
 
+
+## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science  Research
+
+In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/), I worked on a challenging multi-disciplinary topic – ‘Nonlinear system Identification, nonlinearity quantification and control of Nonlinear Systems’, where I integrated the concepts of Nonlinear system identification from Electrical Engineering, time series  forecasting (ARIMA  Models) and analysis using Machine learning/deep learning algorithms and applied it to control engineering problems. This experience shaped my skills in analysing large raw datasets, applying rigorous optimization solvers,hyperparameter tuning and developing new approaches to complex real-world problems.This experience also stimulated my deep interest in diving in-depth in Machine learning/Deep learning algorithms and exploring Data Science to transition into this field.
 
 ### Research Publications
 
