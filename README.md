@@ -49,7 +49,7 @@ Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow
 - Conducted time series analysis on process control data sets including Continuous Strirred Tank Reactors, Heat Exchanger and Bioreactor using a novel machine learning algorithm called key term based Sparse Regression of Nonlinear Dynamics and Control (kSINDYc) and validated their training and testing accuracy using statistical metrics.
 - Formulated nonlinear objective functions, involved regularization methods like (Ridge, Lasso, Droppot) to overcome overfitting
 
-### Notable ML related Project Works (Github):
+### Featured DS Project Works (Github):
 
 a. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
 ToolsUsed: NumPy, Pandas, datetime, Matplotlib, Seaborn, Statsmodels and SciPy
@@ -60,15 +60,15 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
   - How reliable was the ADF test in real-world (live) data compared to historical data?
 
 **Key Highlights:**  
-•	Detected early price trends by transforming and stabilizing Bitcoin data using ADF tests and smoothing techniques, helping teams react 12–24 hours sooner during trend and seasonality shifts.
-•	Improved price prediction forecast accuracy by comparing ARIMA and LSTM models, showing LSTM reduced errors by 18% -helping guide future model choices.
-•	Saved analyst monitoring time by automating steps like differencing and correlation checks (ACF, PACF) with statistical tools, reducing manual work by around 10 hours per week, making insights easy to understand for non-
-•	Built trust in predictions by validating models with clear performance metrics (MAE, RMSE, and R²) and visuals, making insights easy to understand for non-technical teams.
-•	Recommended weekly model updates to keep forecasts accurate during market swings, helping reduce prediction delays and improve response times during high-noise events like news-driven price fluctuations.
+-	Detected early price trends by transforming and stabilizing Bitcoin data using ADF tests and smoothing techniques, helping teams react 12–24 hours sooner during trend and seasonality shifts.
+-	Improved price prediction forecast accuracy by comparing ARIMA and LSTM models, showing LSTM reduced errors by 18% -helping guide future model choices.
+-	Saved analyst monitoring time by automating steps like differencing and correlation checks (ACF, PACF) with statistical tools, reducing manual work by around 10 hours per week, making insights easy to understand for non-
+-	Built trust in predictions by validating models with clear performance metrics (MAE, RMSE, and R²) and visuals, making insights easy to understand for non-technical teams.
+-	Recommended weekly model updates to keep forecasts accurate during market swings, helping reduce prediction delays and improve response times during high-noise events like news-driven price fluctuations.
 
 b. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
 
- Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis. Here are the questions I was interested in answering.
+  - Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis. Here are the questions I was interested in answering.
  - How does the US market's performance specifically differ from other countries? Are there particular products, prices, or promotions driving this?
  - Which of the five Ps (People, Product, Price, Place, Promotion) had the biggest impact on campaign success?
  - Based on your hypothesis testing, what immediate actions would you recommend for marketing strategy in the US versus globally?
@@ -87,11 +87,11 @@ Analyzed museum inventory data with SQL to identify unexhibited paintings and un
 
  **Key Highlights:** 
  
-  -Optimized museum inventory insights by querying and identifying 15% of paintings not currently exhibited and uncovering underutilized museum spaces.
+- Optimized museum inventory insights by querying and identifying 15% of paintings not currently exhibited and uncovering underutilized museum spaces.
 - Improved collection management by detecting museums with no associated paintings, enabling better artwork distribution planning and enhancing visitor experience.
 - Enhanced data-driven decision-making by cleaning inconsistencies (e.g., mismatched artist IDs, missing gallery assignments) to support accurate reporting on artwork visibility and artist representation
 
-- 
+  
 ### Project/Course Certifications:
 
 - Received a passing grade and verified certificate in [‘Machine Learning with Python – From Linear Models to Deep Learning’ offered by MITx, MA](https://courses.edx.org/certificates/996fa1a66b8243fd8cc2dddc1da867b2) in association with edX. (2024) 
