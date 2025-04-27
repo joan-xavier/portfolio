@@ -2,41 +2,31 @@
 
 I completed my PhD in Electrical Engineering, during which I undertook courseworks in Machine Learning and Statistics for Data Science. Alongside my coursework, I conducted research focused on Exploratory Data Analysis (EDA) and Machine Learning algorithms. This combination of academic training and hands-on research sparked my interest in transitioning from academia to the data science industry. I found the process of working with raw data, uncovering patterns, and transforming numbers into meaningful insights and actionable business recommendations fascinating. I began relentlessly working on Python, SQL, Excel, Tableau and this journey naturally shifted my career trajectory toward becoming a data scientist, where I could utilize my skills in data analysis, machine learning, and statistical modeling to solve real-world problems.
 
-
-## Technical Expertise
-
-- Extensive research in [Nonlinear System Identification](https://link.springer.com/article/10.1007/s11071-023-09258-0) & Control, Predictive (Data-Driven) Modeling, and Deep Learning
-- Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis using ARIMA, SARIMAX and NARX methods.
-- Strong proficiency in programming languages such as Python and Matlab for Machine Learning and knowledge of database technology (writing SQL Queries).
-- Expertise in data analysis, statistical and Machine learning libraries ( Pandas, NumPy, SciPy, Statsmodel, Scikit-Learn, TensorFlow, Keras).
-- Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
-- Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
-- Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
-- Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai
-
 ## Skills & Tools
 
 - **Programming:** Python, MySQL,ProtgreSQL, Excel, Matlab
 - **ML & Deep Learning Frameworks:** Keras, Scikit-Learn,TensorFlow, PyTorch
-- **Data Analytics & Visualization:** Pandas, Matplotlib, Seaborn, Plotly
+- **Data Analytics & Visualization:** Pandas, NumPy, SciPy, Statsmodel, Matplotlib, Seaborn, Plotly
 - **Development Tools:** VS Code, PyCharm, MATLAB & Simulink
 - **Version Control:** Proficient in Git & GitHub
+
+  
+## Technical Expertise
+
 - Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data 
   based on features. Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
 - Model Deployment using Flask
 - Writing SQL Queries for Real world Problems
-  
-### Collaborative Projects and Scientific Writing
+  - Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
+- Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
+- Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
+- Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
+- Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
+- Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis using ARIMA, SARIMAX and NARX methods.
+  - Extensive research in [Nonlinear System Identification](https://link.springer.com/article/10.1007/s11071-023-09258-0) & Control, Predictive (Data-Driven) Modeling, and Deep Learning
+- Actively working as an independent contractor /subject expert to train AI in Electrical Engineering at Outlier.ai
 
-As a Full-time researcher at Anna University, I designed and executed multiple projects, collaborated with faculty at Central Research labs, and mentored Masters students on advanced topics in control systems, Machine learning and Deep learning which resulted in good publications in high impact factor Journals.
-
-- Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression (ML)](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212), Hybrid modelling for System Identification and [economic optimization](https://www.sciencedirect.com/science/article/abs/pii/S0009250923000866?via%3Dihub) of Data Driven Nonlinear Real-time systems.
-- Published multiple peer-reviewed Q1 journal articles on ML-based system identification [(Google Scholar h-index: 5)](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
-- Reviewer for Elsevier & IMechE Journals (Reviewed 20+ manuscripts)
-- Co-author of the Humanity’s Last Exam a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 
-  4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1)[HLE research paper](https://arxiv.org/abs/2501.14249), organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025.
-
-
+ 
 ### Notable Research in Data Science (With high impact factor Research Publications):
 
 Time series forecasting of a Real Time  pH Neutralization Process: 
@@ -118,14 +108,6 @@ Analyzed museum inventory data with SQL to identify unexhibited paintings and un
 - [Best Paper Presenter](https://publuu.com/flip-book/796176/1758624) at [IFAC 2022 Conference](http://acods2022.nits.ac.in/) ('International Fedaration of Automatic Control'), NIT Silchar, India 
 - Designed [Front Cover Art](https://pubs.acs.org/toc/iecred/62/33) for 'Industrial & Engineering Chemistry Research' (ACS Journal)  The Cover art was based on my  article featuring Deep learning based Temporal Convolution Networks for a complex pH Process (2023)
     
-   
-### Github Projects:
-
-[Data Science Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
-[ML Projects](https://github.com/joan-xavier/ML_projects_2024)
-[For Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
-
-
 ## Ph.D. in Electrical Engineering | ML & Deep Learning | Data Science  Research
 
 In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/), I worked on a challenging multi-disciplinary topic – ‘Nonlinear system Identification, nonlinearity quantification and control of Nonlinear Systems’, where I integrated the concepts of Nonlinear system identification from Electrical Engineering, time series  forecasting (ARIMA  Models) and analysis using Machine learning/deep learning algorithms and applied it to control engineering problems. This experience shaped my skills in analysing large raw datasets, applying rigorous optimization solvers,hyperparameter tuning and developing new approaches to complex real-world problems.This experience also stimulated my deep interest in diving in-depth in Machine learning/Deep learning algorithms and exploring Data Science to transition into this field.
@@ -134,3 +116,20 @@ In my PhD research at [Anna University, (2018-2023)](https://www.annauniv.edu/),
 
 I have published around 10 peer-reviewed articles in science citation indexed journals. Among these, three research articles were focused on Machine learning based system identification as a first author in journals with high impact factor. My publications have over 60 total citations and a h-index of 5. 
 You can view my publications in the [my Google Scholar page](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
+
+### Collaborative Projects and Scientific Writing
+
+As a Full-time researcher at Anna University, I designed and executed multiple projects, collaborated with faculty at Central Research labs, and mentored Masters students on advanced topics in control systems, Machine learning and Deep learning which resulted in good publications in high impact factor Journals.
+
+- Collaborated with Faculty and students of [Anna University](https://www.annauniv.edu/) in the field of [Sparse regression (ML)](https://www.sciencedirect.com/science/article/pii/S240589632200146X), [Deep learning (MLP,TCN, LSTM)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01212), Hybrid modelling for System Identification and [economic optimization](https://www.sciencedirect.com/science/article/abs/pii/S0009250923000866?via%3Dihub) of Data Driven Nonlinear Real-time systems.
+- Published multiple peer-reviewed Q1 journal articles on ML-based system identification [(Google Scholar h-index: 5)](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en)
+- Reviewer for Elsevier & IMechE Journals (Reviewed 20+ manuscripts)
+- Co-author of the Humanity’s Last Exam a multimodal benchmark featuring original questions from many subject areas to test the limits of top state-of-art LLM Models (GPT- 
+  4o, o1, Sonnet 3.5, Gemini 1.5 and Deep-Seek R1)[HLE research paper](https://arxiv.org/abs/2501.14249), organized by [Centre for AI Safety](https://agi.safe.ai/) & [Scale AI](https://scale.com/research/humanitys-last-exam)  2025.
+
+     
+### Github Projects:
+
+[Data Science Projects](https://github.com/joan-xavier/Data_Analysis_Python_2024)
+[ML Projects](https://github.com/joan-xavier/ML_projects_2024)
+[For Python Projects](https://github.com/joan-xavier/Python_Projects_2024)
