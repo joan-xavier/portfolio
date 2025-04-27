@@ -15,9 +15,9 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
 
 - Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data 
   based on features. Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
-- Model Deployment using Flask
+- ML Model Deployment using Flask
 - Writing SQL Queries for Real world Problems
-  - Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
+- Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
 - Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
 - Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
 - Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
