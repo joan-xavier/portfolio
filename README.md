@@ -4,8 +4,8 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
 
 ## Skills & Tools
 
-- **Programming:** Python, MySQL,ProtgreSQL, Excel, Matlab
-- **ML & Deep Learning Frameworks:** Keras, Scikit-Learn,TensorFlow, PyTorch
+- **Programming:** Python, MySQL,PostgreSQL, Excel, Matlab
+- **ML & Deep Learning Frameworks:** Keras, Scikit-Learn,TensorFlow
 - **Data Analytics & Visualization:** Pandas, NumPy, SciPy, Statsmodel, Matplotlib, Seaborn, Plotly
 - **Development Tools:** VS Code, PyCharm, MATLAB & Simulink
 - **Version Control:** Proficient in Git & GitHub
@@ -13,14 +13,10 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
   
 ## Technical Expertise
 
-- Data Cleaning: handling missing values, converting data to required datatype, removing outliers, introducing new features, grouping data 
-  based on features. Generation of box plots & histograms, outlier treatment with (Interquartile Range)IQR capping, correlation heatmap
-- ML Model Deployment using Flask
-- Writing SQL Queries for Real world Problems
-- Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
-- Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
-- Hands-on experience working on large-scale datasets with machine learning algorithms(regression, classification, clustering), feature engineering and model deployment.
-- Knowledge of statistical metrics and experience using statistical packages for analyzing large datasets.
+- Writing SQL Queries for Real world Problems: Subqueries, Joins, CTEs, Window Functions
+- Data Cleaning & Visualization: handling missing values, dataformating, removing outliers, feature extracction, grouping data based on features;outlier treatment with (Interquartile Range)IQR capping, correlation heatmap;Visualization using Matplotlib and seaborn
+ - Descriptive and Inferential statistical Metrics(Hypothesis testing & confidence Interval); 
+- Hands-on experience working on large-scale datasets with machine learning algorithms for regression, classification, clustering type problems, feature engineering and model deployment.ML Model Deployment using Flask
 - Strong expertise in time series forecasting, Data Analytics, Anomaly detection, and Deep learning architectures (TCN, CNN, RNN, LSTM)
 - Developed [hybrid modeling](https://www.sciencedirect.com/science/article/pii/S0019057824005366?via%3Dihub) involving DL-based models for analyzing and predicting complex system dynamics, Time series Analysis using ARIMA, SARIMAX and NARX methods.
   - Extensive research in [Nonlinear System Identification](https://link.springer.com/article/10.1007/s11071-023-09258-0) & Control, Predictive (Data-Driven) Modeling, and Deep Learning
@@ -66,7 +62,7 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
 -	Built trust in predictions by validating models with clear performance metrics (MAE, RMSE, and R²) and visuals, making insights easy to understand for non-technical teams.
 -	Recommended weekly model updates to keep forecasts accurate during market swings, helping reduce prediction delays and improve response times during high-noise events like news-driven price fluctuations.
 
-b. [EDA and Hypothesis Testing on Margeting Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
+b. [EDA and Hypothesis Testing on Marketing Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
 
   - Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis. Here are the questions I was interested in answering.
  - How does the US market's performance specifically differ from other countries? Are there particular products, prices, or promotions driving this?
