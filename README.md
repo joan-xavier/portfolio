@@ -13,7 +13,7 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
   
 ## Technical Expertise
 
-- Writing SQL Queries for Real world Problems: Subqueries, Joins, CTEs, Window Functions
+- Writing SQL Queries for Real world Problems: Subqueries, Joins, CTEs, Window Functions, Ranking Functions
 - Data Cleaning & Visualization: handling missing values, dataformating, removing outliers, feature extracction, grouping data based on features;outlier treatment with (Interquartile Range)IQR capping, correlation heatmap;Visualization using Matplotlib and seaborn
  - Descriptive and Inferential statistical Metrics(Hypothesis testing & confidence Interval); 
 - Hands-on experience working on large-scale datasets with machine learning algorithms for regression, classification, clustering type problems, feature engineering and model deployment.ML Model Deployment using Flask
