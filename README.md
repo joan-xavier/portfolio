@@ -13,13 +13,11 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
 ## Certifications
 
 **SQL Associate Certificate** – *Industry Recognized Certification Issued by DataCamp* 
-[![SQL Badge](sql_badge.png)](https://www.datacamp.com/certificate/SQA0018827350718)
 
-[![Python Badge](python_for_data_science_badge1.png)](https://www.credly.com/earner/earned/badge/fc570d6f-de61-48b8-92ac-26b1414453be)
-
-[![DL Keras Badge](DL_IBM_Keras_badge1.png)](https://www.credly.com/earner/earned/badge/f0b4ec23-8797-4b42-bc80-75d9347cabbc)
-
-[![DL TF Badge](DL_IBM_TF_badge1.png)](https://www.credly.com/earner/earned/badge/40afbf5b-bb65-4ad4-badd-a5a05b86203d)
+[![SQL Badge](resized_SQL_Associate.png)](https://www.datacamp.com/certificate/SQA0018827350718) 
+[![Python Badge](resized_Python_DS.png)](https://www.credly.com/earner/earned/badge/fc570d6f-de61-48b8-92ac-26b1414453be)
+[![DL Keras Badge](resized_DL_IBM_Keras.png)](https://www.credly.com/earner/earned/badge/f0b4ec23-8797-4b42-bc80-75d9347cabbc)
+[![DL TF Badge](resized_DL_IBM_TF.png)](https://www.credly.com/earner/earned/badge/40afbf5b-bb65-4ad4-badd-a5a05b86203d)
 
   
 ## Technical Expertise
