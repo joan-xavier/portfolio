@@ -9,6 +9,14 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
 - **Data Analytics & Visualization:** Pandas, NumPy, SciPy, Statsmodel, Matplotlib, Seaborn, Plotly
 - **Development Tools:** VS Code, PyCharm, MATLAB & Simulink
 - **Version Control:** Proficient in Git & GitHub
+## Certifications
+
+![SQL Associate Badge](SQL Associate - badge with outline.png) 
+
+**SQL Associate Certificate** – *Issued by DataCamp*  
+Demonstrated competencies in:
+- Data Management
+- Exploratory Analysis
 
   
 ## Technical Expertise
