@@ -21,10 +21,10 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
   <a href="https://www.credly.com/earner/earned/badge/fc570d6f-de61-48b8-92ac-26b1414453be">
     <img src="inline_Python_DS.png" height="100"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/f0b4ec23-8797-4b42-bc80-75d9347cabbc">
+  <a href="https://courses.edx.org/certificates/9937b0ec7eca42428ac0e45925984ac8">
     <img src="inline_DL_IBM_Keras.png" height="100"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/40afbf5b-bb65-4ad4-badd-a5a05b86203d">
+  <a href="https://courses.edx.org/certificates/a950c6cff0e54b5a9fd2c44e8928263f">
     <img src="inline_DL_IBM_TF.png" height="100"/>
   </a>
 </p>
