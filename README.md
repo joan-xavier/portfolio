@@ -18,7 +18,7 @@ I completed my PhD in Electrical Engineering, during which I undertook coursewor
   <a href="https://www.datacamp.com/certificate/SQA0018827350718">
     <img src="inline_SQL_Associate.png" height="100"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/fc570d6f-de61-48b8-92ac-26b1414453be">
+  <a href="https://courses.skillsnet.simplilearn.com/certificates/02660daec9e84481a169c7bc4f243479">
     <img src="inline_Python_DS.png" height="100"/>
   </a>
   <a href="https://courses.edx.org/certificates/9937b0ec7eca42428ac0e45925984ac8">
