@@ -80,8 +80,24 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
 -	Saved analyst monitoring time by automating steps like differencing and correlation checks (ACF, PACF) with statistical tools, reducing manual work by around 10 hours per week, making insights easy to understand for non-
 -	Built trust in predictions by validating models with clear performance metrics (MAE, RMSE, and R²) and visuals, making insights easy to understand for non-technical teams.
 -	Recommended weekly model updates to keep forecasts accurate during market swings, helping reduce prediction delays and improve response times during high-noise events like news-driven price fluctuations.
+  
+b. [Predictive Analytics for Employee Turnover Reduction with ML]()
 
-b. [EDA and Hypothesis Testing on Marketing Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
+- Uncovered Key Attrition Drivers Using Exploratory Data Analysis
+Identified top predictors of employee churn — low satisfaction (<0.5) and extreme monthly hours (>250) — through correlation heatmaps, KDE plots, and project-based distribution analysis.
+
+**Key Highlights:**  
+
+- Segmented Leavers into Actionable Clusters Using KMeans
+Applied unsupervised clustering to identify 3 distinct exit profiles: disengaged, burnt-out high performers, and misaligned contributors — enabling HR to design targeted retention plans.
+- Built Predictive Models with 96% AUC to Forecast Attrition
+Trained and validated Logistic Regression, Random Forest, and Gradient Boosting classifiers (with SMOTE) using 5-fold CV; Gradient Boosting emerged best with 0.96 AUC and strong feature interpretability.
+- Enabled Early Intervention Through Risk Scoring and Reporting
+Designed a risk scoring system to flag at-risk employees monthly, empowering HR with real-time dashboards for proactive retention strategies.
+- Delivered Business Impact with Data-Driven HR Strategy
+Insights led to pilot programs on workload balance and internal promotions, projecting a 15–20% reduction in attrition and lowering rehiring costs across departments
+
+c. [EDA and Hypothesis Testing on Marketing Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
 
   - Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis. Here are the questions I was interested in answering.
  - How does the US market's performance specifically differ from other countries? Are there particular products, prices, or promotions driving this?
