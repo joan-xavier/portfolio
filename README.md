@@ -81,7 +81,7 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
 -	Built trust in predictions by validating models with clear performance metrics (MAE, RMSE, and R²) and visuals, making insights easy to understand for non-technical teams.
 -	Recommended weekly model updates to keep forecasts accurate during market swings, helping reduce prediction delays and improve response times during high-noise events like news-driven price fluctuations.
   
-b. [Predictive Analytics for Employee Turnover Reduction with ML]()
+b. [Predictive Analytics for Employee Turnover Reduction with ML](https://github.com/joan-xavier/ML_projects_2024/blob/main/P4_employee_turn_over_analytics_prediction/Project_employee_turnover_analytics.ipynb)
 
 - Uncovered Key Attrition Drivers Using Exploratory Data Analysis
 Identified top predictors of employee churn — low satisfaction (<0.5) and extreme monthly hours (>250) — through correlation heatmaps, KDE plots, and project-based distribution analysis.
