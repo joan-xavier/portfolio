@@ -65,8 +65,14 @@ Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow
 - Formulated nonlinear objective functions, involved regularization methods like (Ridge, Lasso, Droppot) to overcome overfitting
 
 ### Featured DS Project Works (Github):
+a. [Real-World Stock Forecasting Dashboard with Streamlit cloud](https://yfinance-stock-prediction.streamlit.app/)
 
-a. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
+An interactive data science web app for stock price analysis and prediction using real-time data from [Yahoo Finance](https://finance.yahoo.com/). Built with `Python`, `Streamlit`, and popular machine learning and deep learning libraries, this project helps users analyze market trends, explore financial statements, and forecast future prices using models like ARIMA, SARIMA, and LSTM.[Github](https://github.com/joan-xavier/yfinance_streamlit/tree/main)
+
+## Why This Project Matters
+While many stock prediction projects focus on just one model, this project uniquely combines multiple forecasting models, classification algorithms, EDA, feature engineering, time series models and deep learning in a single interactive app.
+
+b. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
 ToolsUsed: NumPy, Pandas, datetime, Matplotlib, Seaborn, Statsmodels and SciPy
 The primary objective of this project is to compare the accuracy of bitcoin price in USD prediction from time-series data based on two different models, Long Short term Memory (LSTM) network and ARIMA model. Collected the recent dataset (Sep 2014 - March 2025) from yahoo financing. Here are the questions I was interested in answering:
   - How exactly did detecting trends 12–24 hours earlier help the business?
@@ -81,7 +87,7 @@ The primary objective of this project is to compare the accuracy of bitcoin pric
 -	Built trust in predictions by validating models with clear performance metrics (MAE, RMSE, and R²) and visuals, making insights easy to understand for non-technical teams.
 -	Recommended weekly model updates to keep forecasts accurate during market swings, helping reduce prediction delays and improve response times during high-noise events like news-driven price fluctuations.
   
-b. [Predictive Analytics for Employee Turnover Reduction with ML](https://github.com/joan-xavier/ML_projects_2024/blob/main/P4_employee_turn_over_analytics_prediction/Project_employee_turnover_analytics.ipynb)
+c. [Predictive Analytics for Employee Turnover Reduction with ML](https://github.com/joan-xavier/ML_projects_2024/blob/main/P4_employee_turn_over_analytics_prediction/Project_employee_turnover_analytics.ipynb)
 
 - Uncovered Key Attrition Drivers Using Exploratory Data Analysis
 Identified top predictors of employee churn — low satisfaction (<0.5) and extreme monthly hours (>250) — through correlation heatmaps, KDE plots, and project-based distribution analysis.
@@ -97,7 +103,7 @@ Designed a risk scoring system to flag at-risk employees monthly, empowering HR 
 - Delivered Business Impact with Data-Driven HR Strategy
 Insights led to pilot programs on workload balance and internal promotions, projecting a 15–20% reduction in attrition and lowering rehiring costs across departments
 
-c. [EDA and Hypothesis Testing on Marketing Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
+d. [EDA and Hypothesis Testing on Marketing Campaign Dataset](https://github.com/joan-xavier/ML_projects_2024/tree/main/P5_Marketing_data_Hypothesis_testing_EDA)
 
   - Performed exploratory data analysis and hypothesis testing on a marketing dataset integrating the five Ps (People, Product, Price, Place, and Promotion). Demonstrated the US market’s performance relative to other countries through comparative statistical analysis. Here are the questions I was interested in answering.
  - How does the US market's performance specifically differ from other countries? Are there particular products, prices, or promotions driving this?
@@ -112,7 +118,7 @@ c. [EDA and Hypothesis Testing on Marketing Campaign Dataset](https://github.com
 -	Identified high/low-performing products through Pandas groupby analysis, recommending promotion reallocation toward top-selling categories to maximize Return On Investment (ROI).Forecasted $250K increase in quarterly revenue based on improved conversion rates and reduced churn
 Recommended reallocation of 30% more budget toward Segment B(ages 25–34) and shift email content strategy to focus on personalized offers.
 
-c. [SQL Project using Paintings & Museum Dataset](https://github.com/joan-xavier/Data_Analysis_Python_2024/blob/main/SQL_music_store_project1.pdf):
+e. [SQL Project using Paintings & Museum Dataset](https://github.com/joan-xavier/Data_Analysis_Python_2024/blob/main/SQL_music_store_project1.pdf):
 
 Analyzed museum inventory data with SQL to identify unexhibited paintings and underutilized museum spaces. Discovered 15% of artworks not displayed, highlighting opportunities to improve visitor engagement and provided insights to optimize art rotations and enhance museum profitability.
 
@@ -124,7 +130,7 @@ Analyzed museum inventory data with SQL to identify unexhibited paintings and un
 
   
 ### Project/Course Certifications:
-
+- Completed a [Postgraduate Program in AI and Machine Learning from Purdue University](https://success.simplilearn.com/b7936f80-6f80-4bf9-91ff-db93a7891503#acc.q3vo7E5X), (May 2025)
 - Received a passing grade and verified certificate in [‘Machine Learning with Python – From Linear Models to Deep Learning’ offered by MITx, MA](https://courses.edx.org/certificates/996fa1a66b8243fd8cc2dddc1da867b2) in association with edX. (2024) 
 - Received a passing grade and verified certificate in [‘Deep learning fundamentals with Keras’ offered by IBM](https://courses.edx.org/certificates/9937b0ec7eca42428ac0e45925984ac8) in association with edX. (2024) 
 - Received a passing grade and verified certificate in the course [‘Deep learning with TensorFlow’ offered by IBM](https://courses.edx.org/certificates/a950c6cff0e54b5a9fd2c44e8928263f) in association with edX. (2024) 
