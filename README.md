@@ -65,14 +65,27 @@ Collected around 10705 samples of real-time dataset(pH base flow rate, acid flow
 - Formulated nonlinear objective functions, involved regularization methods like (Ridge, Lasso, Droppot) to overcome overfitting
 
 ### Featured DS Project Works (Github):
-a. [Real-World Stock Forecasting Dashboard with Streamlit cloud](https://yfinance-stock-prediction.streamlit.app/)
+a. [ExpiryGenie – Smart Food Expiry Tracker (Deployed on AWS with HTTPS)](https://expirygenie.com/Landing)
+Households and small food businesses often face avoidable food waste due to forgotten expiry dates. There was a need for a smart, accessible solution to track food shelf life, provide expiry alerts, and help users reduce waste and save money.
+## Why This Project Matters
+•	Built an intuitive multi-tab dashboard to add food items via manual entry, text, voice, and image/receipt scanning using Gemini AI and OCR.
+•	Integrated AWS S3 to store food records and user credentials securely.
+•	Provisioned and configured AWS EC2 Ubuntu instance with Python 3.12.
+•	Used Elastic IP for stable access and Streamlit with nohup to run persistently in the background.
+ Business Insights
+•	Food waste reduction: Enables early expiry alerts based on AI-predicted shelf life or receipt scan input.
+•	Cost savings: Tracks items used on time, displaying money saved per user.
+•	User behavior: Data on frequently wasted categories can guide personalized reminders or donation prompts.
+
+
+b. [Real-World Stock Forecasting Dashboard with Streamlit cloud](https://yfinance-stock-prediction.streamlit.app/)
 
 An interactive data science web app for stock price analysis and prediction using real-time data from [Yahoo Finance](https://finance.yahoo.com/). Built with `Python`, `Streamlit`, and popular machine learning and deep learning libraries, this project helps users analyze market trends, explore financial statements, and forecast future prices using models like ARIMA, SARIMA, and LSTM.[Github](https://github.com/joan-xavier/yfinance_streamlit/tree/main)
 
 ## Why This Project Matters
 While many stock prediction projects focus on just one model, this project uniquely combines multiple forecasting models, classification algorithms, EDA, feature engineering, time series models and deep learning in a single interactive app.
 
-b. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
+c. [Bit-Coin Price prediction using Time-series Forecasting](https://github.com/joan-xavier/ML_projects_2024/tree/main/P3_Bitcoin_prediction_Time_series_ARIMA_LSTM)
 ToolsUsed: NumPy, Pandas, datetime, Matplotlib, Seaborn, Statsmodels and SciPy
 The primary objective of this project is to compare the accuracy of bitcoin price in USD prediction from time-series data based on two different models, Long Short term Memory (LSTM) network and ARIMA model. Collected the recent dataset (Sep 2014 - March 2025) from yahoo financing. Here are the questions I was interested in answering:
   - How exactly did detecting trends 12–24 hours earlier help the business?
