@@ -12,8 +12,8 @@ I completed my PhD in Electrical Engineering, during which I consistently focuse
 
 ## Certifications
 
-**SQL Associate Certificate** – *Industry Recognized Certification Issued by DataCamp*
-**Honored Listee, Marquis Who's Who 2025** – Recognized for professional achievement and distinction* 
+- **SQL Associate Certificate** – *Industry Recognized Certification Issued by DataCamp*
+- **Honored Listee, Marquis Who's Who 2025** – Recognized for professional achievement and distinction* 
 
 <p align="center">
     <a href="https://badges.marquiswhoswho.com/Badge/honoredlistee/58ea327a56f946368c5c5c90a3957bd3ecd456215b504f6bb3c3851f7d5cd831">
