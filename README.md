@@ -10,7 +10,7 @@ I completed my PhD in Electrical Engineering, during which I consistently focuse
 - **Development Tools:** VS Code, PyCharm, MATLAB & Simulink
 - **Version Control:** Proficient in Git & GitHub
 
-## Certifications
+## Recognitions & Certifications
 
 - **SQL Associate Certificate** – *Industry Recognized Certification Issued by DataCamp*
 - **Honored Listee, Marquis Who's Who 2025** – Recognized for professional achievement and distinction* 
